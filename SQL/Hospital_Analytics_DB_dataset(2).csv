@@ -1,5 +1,0 @@
-﻿Field,Value
-Database,Hospital_Analytics_DB
-Company,MediCare Hospital Network Pvt. Ltd.
-Tables,"Hospitals, Departments, Doctors, Patients, Rooms, Appointments, Admissions, Treatments, Insurance, Medicines, Pharmacy, Laboratory, Employees, Billing, Payments"
-Note,"Each sheet = one table, exactly matching the CSV/SQL dataset. Dataset intentionally includes data-quality issues (see 06_data_quality_issue_catalog.md)."
