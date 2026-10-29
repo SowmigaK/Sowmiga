@@ -1,0 +1,481 @@
+Ticket_ID,Created_At,Created_Date,Created_Hour,Created_Day_Of_Week,Description,Description_Word_Count,Priority,Category,Assigned_Team,Status,First_Response_At,Resolved_At,Response_SLA_Hours,Resolution_SLA_Hours,Actual_Response_Hours,Actual_Resolution_Hours,SLA_Breached
+TKT0001,2025-06-12 12:53:00,2025-06-12,12,Thursday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Open,2025-06-12 17:51:26,,4.0,48,4.973888888888889,,Yes
+TKT0002,2025-01-20 07:44:00,2025-01-20,7,Monday,Printer is not working,4,Low,Hardware,Endpoint Support,Closed,2025-01-20 16:27:49,2025-01-26 03:37:47,8.0,72,8.730277777777777,139.89638888888888,Yes
+TKT0003,2025-11-04 17:43:00,2025-11-04,17,Tuesday,Office application crashes,3,Medium,Software,Infrastructure,Resolved,2025-11-04 19:52:21,2025-11-09 05:32:58,4.0,48,2.1558333333333333,107.83277777777778,Yes
+TKT0004,2025-07-12 14:50:00,2025-07-12,14,Saturday,Monitor display is flickering,4,Low,Hardware,Endpoint Support,Open,2025-07-13 09:13:38,,8.0,72,18.39388888888889,,Yes
+TKT0005,2025-09-21 08:01:00,2025-09-21,8,Sunday,Unable to install software,4,Low,Software,Applications,Open,2025-09-21 11:35:18,,8.0,72,3.5716666666666668,,No
+TKT0006,2025-10-04 19:11:00,2025-10-04,19,Saturday,Computer is running slowly,4,High,Other,Service Desk,Resolved,2025-10-04 19:37:55,2025-10-05 05:40:35,1.0,24,0.4486111111111111,10.493055555555555,No
+TKT0007,2025-02-21 23:50:00,2025-02-21,23,Friday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,In Progress,2025-02-22 02:59:19,,4.0,48,3.1552777777777776,,No
+TKT0008,2025-06-09 22:03:00,2025-06-09,22,Monday,Computer is running slowly,4,Medium,Other,Service Desk,Open,2025-06-09 22:42:14,,4.0,48,0.6538888888888889,,No
+TKT0009,2025-02-18 04:43:00,2025-02-18,4,Tuesday,Account locked out,3,High,Account / Access,Service Desk,Resolved,2025-02-18 05:00:20,2025-02-18 23:33:05,1.0,24,0.28888888888888886,18.834722222222222,No
+TKT0010,2025-04-15 00:51:00,2025-04-15,0,Tuesday,System update failed,3,Medium,Software,Network Operations,Resolved,2025-04-15 02:06:26,2025-04-15 11:10:06,4.0,48,1.2572222222222222,10.318333333333333,No
+TKT0011,2025-04-11 17:31:00,2025-04-11,17,Friday,Unable to install software,4,High,Software,Applications,Open,2025-04-11 19:36:58,,1.0,24,2.0994444444444444,,Yes
+TKT0012,2025-02-16 06:13:00,2025-02-16,6,Sunday,Access permission required,3,Medium,Account / Access,Service Desk,Closed,2025-02-16 08:57:39,2025-02-16 16:26:21,4.0,48,2.7441666666666666,10.2225,No
+TKT0013,2025-03-25 09:56:00,2025-03-25,9,Tuesday,Access permission required,3,Critical,Account / Access,Service Desk,Resolved,2025-03-25 10:02:18,2025-03-25 15:19:25,0.25,8,0.105,5.3902777777777775,No
+TKT0014,2025-07-11 19:03:00,2025-07-11,19,Friday,Application login error,3,Low,Software,Applications,Open,2025-07-11 21:07:14,,8.0,72,2.0705555555555555,,No
+TKT0015,2025-09-30 06:37:00,2025-09-30,6,Tuesday,Network drive unavailable,3,High,Network,Network Operations,Open,2025-09-30 07:01:07,,1.0,24,0.40194444444444444,,No
+TKT0016,2025-08-12 22:11:00,2025-08-12,22,Tuesday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,Open,2025-08-12 23:47:23,,4.0,48,1.6063888888888889,,No
+TKT0017,2025-04-02 13:49:00,2025-04-02,13,Wednesday,Access permission required,3,High,Account / Access,Endpoint Support,In Progress,2025-04-02 14:27:34,,1.0,24,0.6427777777777778,,No
+TKT0018,2025-05-27 11:22:00,2025-05-27,11,Tuesday,Internet connection is slow,4,Medium,Network,Endpoint Support,Resolved,2025-05-27 16:23:14,2025-05-27 23:16:42,4.0,48,5.020555555555555,11.911666666666667,Yes
+TKT0019,2025-02-16 14:56:00,2025-02-16,14,Sunday,Unable to install software,4,High,Software,Applications,In Progress,2025-02-16 15:42:05,,1.0,24,0.7680555555555556,,No
+TKT0020,2025-02-19 01:54:00,2025-02-19,1,Wednesday,Account locked out,3,Low,Account / Access,Service Desk,Open,2025-02-19 03:41:49,,8.0,72,1.7969444444444445,,No
+TKT0022,2025-10-27 08:31:00,2025-10-27,8,Monday,Wi-Fi is not connecting,4,Low,Network,Network Operations,Open,2025-10-27 13:15:25,,8.0,72,4.740277777777778,,No
+TKT0023,2025-05-20 12:16:00,2025-05-20,12,Tuesday,Unable to install software,4,Medium,Software,Infrastructure,Closed,2025-05-20 13:03:48,2025-05-21 05:36:40,4.0,48,0.7966666666666666,17.344444444444445,No
+TKT0024,2025-03-13 07:04:00,2025-03-13,7,Thursday,Unable to install software,4,Medium,Software,Network Operations,Open,2025-03-13 17:03:45,,4.0,48,9.995833333333334,,Yes
+TKT0025,2025-10-20 00:41:00,2025-10-20,0,Monday,Application login error,3,Low,Software,Applications,Closed,2025-10-20 07:31:42,2025-10-23 04:28:38,8.0,72,6.845,75.79388888888889,Yes
+TKT0026,2025-12-21 09:11:00,2025-12-21,9,Sunday,Password reset request,3,Critical,Account / Access,Service Desk,Open,2025-12-21 09:23:38,,0.25,8,0.21055555555555555,,No
+TKT0027,2025-04-25 15:20:00,2025-04-25,15,Friday,Laptop will not turn on,5,High,Hardware,Endpoint Support,Open,2025-04-25 17:08:39,,1.0,24,1.8108333333333333,,Yes
+TKT0028,2025-06-29 06:55:00,2025-06-29,6,Sunday,Application login error,3,High,Software,Applications,Resolved,2025-06-29 08:23:58,2025-06-30 10:34:34,1.0,24,1.4827777777777778,27.659444444444443,Yes
+TKT0029,2025-10-16 04:51:00,2025-10-16,4,Thursday,Password reset request,3,Low,Account / Access,Service Desk,Open,2025-10-16 20:52:46,,8.0,72,16.029444444444444,,Yes
+TKT0030,2025-06-05 05:08:00,2025-06-05,5,Thursday,Computer is running slowly,4,Medium,Other,Service Desk,Open,2025-06-05 08:31:20,,4.0,48,3.388888888888889,,No
+TKT0031,2025-01-06 16:43:00,2025-01-06,16,Monday,Printer is not working,4,Medium,Hardware,Applications,Open,2025-01-06 18:29:19,,4.0,48,1.7719444444444445,,No
+TKT0032,2025-04-24 04:38:00,2025-04-24,4,Thursday,Computer is running slowly,4,Medium,Other,Service Desk,Resolved,2025-04-24 05:42:22,2025-04-24 16:46:02,4.0,48,1.0727777777777778,12.133888888888889,No
+TKT0033,2025-07-02 20:39:00,2025-07-02,20,Wednesday,Multi-factor authentication issue,3,High,Account / Access,Service Desk,Open,2025-07-02 21:53:42,,1.0,24,1.245,,Yes
+TKT0034,2025-04-06 06:14:00,2025-04-06,6,Sunday,Monitor display is flickering,4,High,Hardware,Endpoint Support,Closed,,2025-04-07 13:49:04,1.0,24,0.61,31.584444444444443,Yes
+TKT0035,2025-01-27 05:38:00,2025-01-27,5,Monday,Monitor display is flickering,4,Medium,Hardware,Infrastructure,In Progress,2025-01-27 09:06:20,,4.0,48,3.4722222222222223,,No
+TKT0036,2025-09-18 13:10:00,2025-09-18,13,Thursday,Application login error,3,Low,Software,Service Desk,Open,2025-09-18 20:06:35,,8.0,72,6.9430555555555555,,No
+TKT0037,2025-04-23 13:00:00,2025-04-23,13,Wednesday,Computer is running slowly,4,High,Other,Service Desk,In Progress,2025-04-23 13:37:53,,1.0,24,0.6313888888888889,,No
+TKT0038,2025-08-30 21:21:00,2025-08-30,21,Saturday,Keyboard keys are stuck,4,High,Hardware,Endpoint Support,In Progress,2025-08-30 21:25:47,,1.0,24,0.07972222222222222,,No
+TKT0039,2025-01-29 04:45:00,2025-01-29,4,Wednesday,Access permission required,3,Low,Account / Access,Service Desk,Closed,2025-01-29 10:19:30,2025-02-04 09:50:34,8.0,72,5.575,149.09277777777777,Yes
+TKT0041,2025-10-19 00:53:00,2025-10-19,0,Sunday,Office application crashes,3,Critical,Software,Applications,Resolved,2025-10-19 01:01:10,2025-10-19 07:22:00,0.25,8,0.1361111111111111,6.483333333333333,No
+TKT0042,2025-07-13 07:21:00,2025-07-13,7,Sunday,General technical issue,3,Low,Other,Service Desk,Resolved,2025-07-13 22:49:53,2025-07-14 13:36:46,8.0,72,15.481388888888889,30.262777777777778,Yes
+TKT0043,2025-05-19 09:52:00,2025-05-19,9,Monday,VPN connection drops,3,Medium,Network,Network Operations,Open,2025-05-19 11:13:42,,4.0,48,1.3616666666666666,,No
+TKT0044,2025-08-29 10:39:00,2025-08-29,10,Friday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,Open,2025-08-29 16:03:27,,4.0,48,5.4075,,Yes
+TKT0045,2025-08-04 06:56:00,2025-08-04,6,Monday,VPN connection drops,3,Medium,Network,Network Operations,Closed,2025-08-04 08:38:06,2025-08-08 01:13:44,4.0,48,1.7016666666666667,90.29555555555555,Yes
+TKT0046,2025-01-01 07:05:00,2025-01-01,7,Wednesday,System update failed,3,Medium,Software,Applications,Resolved,2025-01-01 09:53:35,2025-01-05 08:37:43,4.0,48,2.8097222222222222,97.54527777777778,Yes
+TKT0047,2025-05-04 13:34:00,2025-05-04,13,Sunday,Wi-Fi is not connecting,4,Medium,Network,Network Operations,Resolved,2025-05-04 15:02:57,2025-05-05 12:50:33,4.0,48,1.4825,23.275833333333335,No
+TKT0048,2025-06-13 13:52:00,2025-06-13,13,Friday,Password reset request,3,High,Account / Access,Service Desk,Closed,2025-06-13 14:20:29,2025-06-14 16:27:11,1.0,24,0.4747222222222222,26.586388888888887,Yes
+TKT0049,2025-10-07 14:30:00,2025-10-07,14,Tuesday,Request for IT assistance,4,Medium,Other,Service Desk,Open,2025-10-07 17:47:42,,4.0,48,3.295,,No
+TKT0050,2025-12-05 06:35:00,2025-12-05,6,Friday,Printer is not working,4,High,Hardware,Endpoint Support,Closed,2025-12-05 08:01:55,2025-12-05 19:03:45,1.0,24,1.448611111111111,12.479166666666666,Yes
+TKT0051,2025-08-20 01:11:00,2025-08-20,1,Wednesday,Internet connection is slow,4,High,Network,Endpoint Support,Closed,2025-08-20 01:23:34,2025-08-20 12:02:14,1.0,24,0.20944444444444443,10.85388888888889,No
+TKT0052,2025-07-08 17:42:00,2025-07-08,17,Tuesday,Multi-factor authentication issue,3,High,Account / Access,Service Desk,Resolved,2025-07-08 18:11:38,2025-07-09 01:51:08,1.0,24,0.4938888888888889,8.152222222222223,No
+TKT0053,2025-07-28 01:27:00,2025-07-28,1,Monday,Unable to install software,4,Medium,Software,Applications,Open,2025-07-28 03:44:06,,4.0,48,2.285,,No
+TKT0054,2025-06-05 19:05:00,2025-06-05,19,Thursday,Office application crashes,3,Low,Software,Applications,Closed,2025-06-06 08:26:54,2025-06-07 21:58:05,8.0,72,13.365,50.88472222222222,Yes
+TKT0055,2025-01-15 05:20:00,2025-01-15,5,Wednesday,System update failed,3,Low,Software,Endpoint Support,Closed,2025-01-15 11:43:23,2025-01-16 23:32:57,8.0,72,6.389722222222222,42.215833333333336,No
+TKT0056,2025-11-02 02:55:00,2025-11-02,2,Sunday,System update failed,3,Low,Software,Applications,In Progress,2025-11-02 04:02:13,,8.0,72,1.1202777777777777,,No
+TKT0057,2025-09-02 18:17:00,2025-09-02,18,Tuesday,System update failed,3,Low,Software,Applications,In Progress,2025-09-02 23:44:24,,8.0,72,5.456666666666667,,No
+TKT0058,2025-10-14 22:00:00,2025-10-14,22,Tuesday,General technical issue,3,High,Other,Service Desk,Open,2025-10-14 22:33:26,,1.0,24,0.5572222222222222,,No
+TKT0059,2025-10-04 01:19:00,2025-10-04,1,Saturday,System update failed,3,Low,Software,Applications,Resolved,2025-10-04 06:22:27,2025-10-04 19:53:50,8.0,72,5.0575,18.580555555555556,No
+TKT0060,2025-03-01 15:24:00,2025-03-01,15,Saturday,New equipment request,3,Medium,Other,Service Desk,Open,2025-03-01 21:53:12,,4.0,48,6.486666666666666,,Yes
+TKT0061,2025-01-23 14:17:00,2025-01-23,14,Thursday,Printer is not working,4,Low,Hardware,Service Desk,In Progress,2025-01-24 00:04:28,,8.0,72,9.79111111111111,,Yes
+TKT0062,2025-06-08 17:12:00,2025-06-08,17,Sunday,VPN connection drops,3,Low,Network,Network Operations,Resolved,2025-06-09 09:10:22,2025-06-09 09:10:22,8.0,72,15.972777777777777,15.972777777777777,Yes
+TKT0063,2025-04-30 06:00:00,2025-04-30,6,Wednesday,General technical issue,3,Medium,Other,Service Desk,Resolved,2025-04-30 10:09:28,2025-05-02 09:56:26,4.0,48,4.157777777777778,51.940555555555555,Yes
+TKT0064,2025-06-26 20:06:00,2025-06-26,20,Thursday,Password reset request,3,Medium,Account / Access,Service Desk,Open,2025-06-27 04:49:33,,4.0,48,8.725833333333334,,Yes
+TKT0065,2025-09-06 11:26:00,2025-09-06,11,Saturday,Application login error,3,Medium,Software,Applications,Closed,2025-09-06 18:11:08,2025-09-07 07:50:01,4.0,48,6.752222222222223,20.400277777777777,Yes
+TKT0066,2025-11-14 02:41:00,2025-11-14,2,Friday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Resolved,2025-11-14 03:26:07,2025-11-15 10:00:49,4.0,48,0.7519444444444444,31.330277777777777,No
+TKT0067,2025-08-23 16:40:00,2025-08-23,16,Saturday,Access permission required,3,Medium,Account / Access,Service Desk,Open,2025-08-23 17:46:41,,4.0,48,1.111388888888889,,No
+TKT0068,2025-10-03 23:19:00,2025-10-03,23,Friday,Unable to install software,4,High,Software,Applications,Resolved,2025-10-03 23:37:41,2025-10-05 22:53:57,1.0,24,0.3113888888888889,47.5825,Yes
+TKT0069,2025-07-23 15:23:00,2025-07-23,15,Wednesday,Office application crashes,3,Medium,Software,Applications,Resolved,2025-07-23 16:46:22,2025-07-24 14:45:25,4.0,48,1.3894444444444445,23.37361111111111,No
+TKT0070,2025-10-23 22:50:00,2025-10-23,22,Thursday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Closed,2025-10-24 03:49:04,2025-10-24 10:39:21,4.0,48,4.984444444444445,11.8225,Yes
+TKT0071,2025-10-22 11:25:00,2025-10-22,11,Wednesday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Resolved,2025-10-22 14:32:08,2025-10-25 18:44:21,4.0,48,3.118888888888889,79.3225,Yes
+TKT0072,2025-08-29 20:59:00,2025-08-29,20,Friday,Application login error,3,Medium,Software,Endpoint Support,Resolved,2025-08-29 21:42:06,2025-08-31 07:09:47,4.0,48,0.7183333333333334,34.179722222222225,No
+TKT0073,2025-05-15 19:43:00,2025-05-15,19,Thursday,Access permission required,3,Low,Account / Access,Service Desk,Resolved,2025-05-16 02:07:06,2025-05-19 03:57:16,8.0,72,6.401666666666666,80.23777777777778,Yes
+TKT0074,2025-09-20 18:51:00,2025-09-20,18,Saturday,Password reset request,3,Critical,Account / Access,Service Desk,Resolved,2025-09-20 18:54:37,2025-09-21 08:35:28,0.25,8,0.06027777777777778,13.741111111111111,Yes
+TKT0075,2025-04-02 22:53:00,2025-04-02,22,Wednesday,Wi-Fi is not connecting,4,Critical,Network,Network Operations,Open,2025-04-02 23:07:48,,0.25,8,0.24666666666666667,,No
+TKT0076,2025-05-15 05:59:00,2025-05-15,5,Thursday,Office application crashes,3,Medium,Software,Applications,Closed,2025-05-15 09:09:36,2025-05-16 20:34:25,4.0,48,3.1766666666666667,38.59027777777778,No
+TKT0077,2025-02-09 00:53:00,2025-02-09,0,Sunday,Office application crashes,3,High,Software,Applications,Resolved,2025-02-09 01:15:38,2025-02-09 18:35:41,1.0,24,0.37722222222222224,17.711388888888887,No
+TKT0078,2025-06-14 08:10:00,2025-06-14,8,Saturday,Keyboard keys are stuck,4,Critical,Hardware,Endpoint Support,Closed,2025-06-14 08:22:19,2025-06-14 11:04:09,0.25,8,0.20527777777777778,2.9025,No
+TKT0079,2025-02-13 20:36:00,2025-02-13,20,Thursday,Computer is running slowly,4,High,Other,Service Desk,In Progress,2025-02-13 23:29:30,,1.0,24,2.8916666666666666,,Yes
+TKT0080,2025-02-24 15:51:00,2025-02-24,15,Monday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,Closed,2025-02-24 22:32:15,2025-02-26 16:32:42,4.0,48,6.6875,48.695,Yes
+TKT0081,2025-11-27 14:46:00,2025-11-27,14,Thursday,System update failed,3,Low,Software,Applications,In Progress,2025-11-28 02:10:51,,8.0,72,11.414166666666667,,Yes
+TKT0082,2025-07-13 10:15:00,2025-07-13,10,Sunday,Application login error,3,Low,Software,Applications,Resolved,2025-07-13 23:23:18,2025-07-17 04:46:58,8.0,72,13.138333333333334,90.53277777777778,Yes
+TKT0083,2025-10-21 02:20:00,2025-10-21,2,Tuesday,System update failed,3,Medium,Software,Applications,Closed,2025-10-21 07:57:09,2025-10-22 18:53:31,4.0,48,5.619166666666667,40.55861111111111,Yes
+TKT0084,2025-08-23 16:58:00,2025-08-23,16,Saturday,Keyboard keys are stuck,4,Low,Hardware,Endpoint Support,Open,2025-08-24 03:00:14,,8.0,72,10.037222222222223,,Yes
+TKT0085,2025-11-19 00:31:00,2025-11-19,0,Wednesday,Password reset request,3,Medium,Account / Access,Service Desk,Closed,2025-11-19 02:39:11,2025-11-22 14:02:11,4.0,48,2.136388888888889,85.51972222222223,Yes
+TKT0086,2025-03-18 04:00:00,2025-03-18,4,Tuesday,Application login error,3,Medium,Software,Applications,Closed,2025-03-18 05:16:34,2025-03-18 20:08:24,4.0,48,1.2761111111111112,16.14,No
+TKT0087,2025-01-27 17:19:00,2025-01-27,17,Monday,Office application crashes,3,Medium,Software,Applications,Resolved,2025-01-27 19:45:40,2025-01-29 07:45:14,4.0,48,2.4444444444444446,38.437222222222225,No
+TKT0088,2025-01-01 20:06:00,2025-01-01,20,Wednesday,Office application crashes,3,Critical,Software,Applications,Closed,2025-01-01 20:18:09,2025-01-02 05:19:25,0.25,8,0.2025,9.223611111111111,Yes
+TKT0089,2025-11-18 21:13:00,2025-11-18,21,Tuesday,System update failed,3,Low,Software,Applications,Resolved,2025-11-19 02:28:15,2025-11-24 02:14:47,8.0,72,5.254166666666666,125.02972222222222,Yes
+TKT0090,2025-06-24 06:01:00,2025-06-24,6,Tuesday,System update failed,3,High,Software,Applications,Open,2025-06-24 06:32:33,,1.0,24,0.5258333333333334,,No
+TKT0091,2025-03-27 12:52:00,2025-03-27,12,Thursday,New equipment request,3,Low,Other,Network Operations,Resolved,2025-03-27 21:26:40,2025-04-03 04:24:19,8.0,72,8.577777777777778,159.53861111111112,Yes
+TKT0092,2025-11-29 14:55:00,2025-11-29,14,Saturday,Office application crashes,3,Medium,Software,Applications,In Progress,2025-11-29 16:01:13,,4.0,48,1.103611111111111,,No
+TKT0093,2025-07-14 13:10:00,2025-07-14,13,Monday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Resolved,2025-07-14 15:20:27,2025-07-16 16:00:20,4.0,48,2.174166666666667,50.83888888888889,Yes
+TKT0094,2025-08-31 01:48:00,2025-08-31,1,Sunday,Application login error,3,High,Software,Applications,Closed,2025-08-31 02:44:56,2025-08-31 15:53:20,1.0,24,0.9488888888888889,14.088888888888889,No
+TKT0095,2025-10-06 20:54:00,2025-10-06,20,Monday,New equipment request,3,High,Other,Service Desk,Open,2025-10-06 21:13:48,,1.0,24,0.33,,No
+TKT0096,2025-10-09 03:12:00,2025-10-09,3,Thursday,Multi-factor authentication issue,3,High,Account / Access,Service Desk,In Progress,2025-10-09 03:39:17,,1.0,24,0.45472222222222225,,No
+TKT0097,2025-03-15 01:59:00,2025-03-15,1,Saturday,Laptop will not turn on,5,Critical,Hardware,Applications,Closed,2025-03-15 02:10:34,2025-03-15 03:55:54,0.25,8,0.19277777777777777,1.9483333333333333,No
+TKT0098,2025-04-23 09:39:00,2025-04-23,9,Wednesday,Office application crashes,3,High,Software,Applications,Closed,2025-04-23 11:50:38,2025-04-24 05:30:57,1.0,24,2.193888888888889,19.865833333333335,Yes
+TKT0099,2025-08-19 14:03:00,2025-08-19,14,Tuesday,Password reset request,3,High,Account / Access,Network Operations,Closed,2025-08-19 14:22:13,2025-08-20 06:44:54,1.0,24,0.3202777777777778,16.698333333333334,No
+TKT0100,2025-07-29 06:18:00,2025-07-29,6,Tuesday,Office application crashes,3,Medium,Software,Applications,Closed,2025-07-29 09:01:26,2025-07-29 18:55:41,4.0,48,2.723888888888889,12.628055555555555,No
+TKT0101,2025-05-02 03:26:00,2025-05-02,3,Friday,Access permission required,3,High,Account / Access,Service Desk,Open,2025-05-02 04:17:55,,1.0,24,0.8652777777777778,,No
+TKT0102,2025-04-17 00:00:00,2025-04-17,0,Thursday,Unable to install software,4,High,Software,Applications,In Progress,,,1.0,24,1.55,,Yes
+TKT0103,2025-06-25 08:48:00,2025-06-25,8,Wednesday,Internet connection is slow,4,Low,Network,Network Operations,In Progress,2025-06-25 10:31:38,,8.0,72,1.7272222222222222,,No
+TKT0104,2025-12-05 18:53:00,2025-12-05,18,Friday,Office application crashes,3,Medium,Software,Applications,In Progress,2025-12-05 22:48:32,,4.0,48,3.9255555555555555,,No
+TKT0107,2025-02-05 17:06:00,2025-02-05,17,Wednesday,VPN connection drops,3,Critical,Network,Network Operations,Resolved,2025-02-05 17:26:54,2025-02-06 01:11:04,0.25,8,0.34833333333333333,8.084444444444445,Yes
+TKT0108,2025-07-02 12:01:00,2025-07-02,12,Wednesday,Office application crashes,3,Medium,Software,Applications,In Progress,2025-07-02 14:02:13,,4.0,48,2.020277777777778,,No
+TKT0109,2025-11-17 23:56:00,2025-11-17,23,Monday,Internet connection is slow,4,High,Network,Network Operations,Resolved,2025-11-18 01:32:38,2025-11-20 04:25:19,1.0,24,1.6105555555555555,52.48861111111111,Yes
+TKT0110,2025-09-24 09:49:00,2025-09-24,9,Wednesday,Keyboard keys are stuck,4,Low,Hardware,Endpoint Support,In Progress,2025-09-24 13:20:36,,8.0,72,3.526666666666667,,No
+TKT0111,2025-09-04 15:28:00,2025-09-04,15,Thursday,Computer is running slowly,4,High,Other,Applications,Open,2025-09-04 19:36:27,,1.0,24,4.140833333333333,,Yes
+TKT0112,2025-10-17 09:16:00,2025-10-17,9,Friday,Office application crashes,3,High,Software,Applications,Resolved,2025-10-17 10:23:31,2025-10-17 13:42:21,1.0,24,1.1252777777777778,4.439166666666667,Yes
+TKT0113,2025-11-28 03:57:00,2025-11-28,3,Friday,Monitor display is flickering,4,High,Hardware,Endpoint Support,Resolved,2025-11-28 04:23:44,2025-11-29 13:37:27,1.0,24,0.44555555555555554,33.674166666666665,Yes
+TKT0114,2025-06-20 06:20:00,2025-06-20,6,Friday,Computer is running slowly,4,High,Other,Service Desk,Resolved,2025-06-20 07:01:03,2025-06-20 12:57:50,1.0,24,0.6841666666666667,6.6305555555555555,No
+TKT0115,2025-08-09 01:09:00,2025-08-09,1,Saturday,Network drive unavailable,3,Medium,Network,Network Operations,Open,2025-08-09 02:37:01,,4.0,48,1.4669444444444444,,No
+TKT0116,2025-04-09 18:54:00,2025-04-09,18,Wednesday,Printer is not working,4,Critical,Hardware,Endpoint Support,Closed,2025-04-09 18:59:26,2025-04-10 00:44:03,0.25,8,0.09055555555555556,5.8341666666666665,No
+TKT0117,2025-10-25 04:20:00,2025-10-25,4,Saturday,VPN connection drops,3,High,Network,Endpoint Support,Resolved,2025-10-25 05:00:26,2025-10-25 13:27:39,1.0,24,0.6738888888888889,9.1275,No
+TKT0118,2025-09-25 11:38:00,2025-09-25,11,Thursday,Request for IT assistance,4,Medium,Other,Service Desk,Resolved,2025-09-26 02:04:58,2025-09-27 11:30:31,4.0,48,14.449444444444444,47.875277777777775,Yes
+TKT0119,2025-11-28 02:45:00,2025-11-28,2,Friday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,Open,2025-11-28 08:20:16,,4.0,48,5.587777777777778,,Yes
+TKT0120,2025-05-30 10:13:00,2025-05-30,10,Friday,Application login error,3,High,Software,Applications,In Progress,2025-05-30 12:23:16,,1.0,24,2.171111111111111,,Yes
+TKT0121,2025-07-21 21:43:00,2025-07-21,21,Monday,Account locked out,3,High,Account / Access,Service Desk,Resolved,2025-07-21 22:03:41,2025-07-23 02:48:59,1.0,24,0.3447222222222222,29.099722222222223,Yes
+TKT0122,2025-09-18 20:44:00,2025-09-18,20,Thursday,Password reset request,3,Low,Account / Access,Service Desk,Resolved,2025-09-19 04:31:18,2025-09-22 10:11:04,8.0,72,7.788333333333333,85.45111111111112,Yes
+TKT0123,2025-03-24 18:09:00,2025-03-24,18,Monday,Laptop will not turn on,5,Low,Hardware,Endpoint Support,Open,2025-03-24 20:08:26,2025-03-26 04:53:06,8.0,72,1.9905555555555556,34.735,No
+TKT0124,2025-08-08 15:22:00,2025-08-08,15,Friday,System update failed,3,Medium,Software,Applications,Open,2025-08-08 17:08:41,,4.0,48,1.7780555555555555,,No
+TKT0125,2025-11-19 23:48:00,2025-11-19,23,Wednesday,Unable to install software,4,High,Software,Applications,Open,2025-11-20 01:00:47,,1.0,24,1.2130555555555556,,Yes
+TKT0126,2025-08-25 19:01:00,2025-08-25,19,Monday,Internet connection is slow,4,Medium,Network,Network Operations,Resolved,2025-08-25 19:57:53,2025-08-28 06:15:16,4.0,48,0.9480555555555555,59.23777777777778,Yes
+TKT0127,2025-03-25 07:31:00,2025-03-25,7,Tuesday,System update failed,3,Medium,Software,Applications,In Progress,2025-03-25 21:42:59,,4.0,48,14.199722222222222,,Yes
+TKT0128,2025-11-27 05:28:00,2025-11-27,5,Thursday,System update failed,3,Medium,Software,Applications,Resolved,2025-11-27 06:14:15,2025-11-28 02:09:49,4.0,48,0.7708333333333334,20.696944444444444,No
+TKT0129,2025-02-18 21:14:00,2025-02-18,21,Tuesday,Unable to install software,4,Medium,Software,Network Operations,Resolved,2025-02-19 02:06:40,2025-02-19 14:44:13,4.0,48,4.877777777777778,17.503611111111113,Yes
+TKT0130,2025-08-29 00:58:00,2025-08-29,0,Friday,Wi-Fi is not connecting,4,Medium,Network,Network Operations,Closed,2025-08-29 04:40:29,2025-08-31 06:10:15,4.0,48,3.7080555555555557,53.204166666666666,Yes
+TKT0131,2025-06-04 21:52:00,2025-06-04,21,Wednesday,Network drive unavailable,3,Critical,Network,Network Operations,Open,2025-06-04 21:56:38,,0.25,8,0.07722222222222222,,No
+TKT0132,2025-06-14 16:24:00,2025-06-14,16,Saturday,Application login error,3,High,Software,Applications,Open,2025-06-14 16:26:55,,1.0,24,0.04861111111111111,,No
+TKT0133,2025-09-05 10:51:00,2025-09-05,10,Friday,Office application crashes,3,Low,Software,Applications,Closed,2025-09-05 15:05:55,2025-09-09 03:20:33,8.0,72,4.248611111111111,88.4925,Yes
+TKT0134,2025-06-06 15:43:00,2025-06-06,15,Friday,Network drive unavailable,3,Low,Network,Network Operations,In Progress,2025-06-07 10:54:37,,8.0,72,19.19361111111111,,Yes
+TKT0135,2025-03-03 20:43:00,2025-03-03,20,Monday,Office application crashes,3,Medium,Software,Endpoint Support,Open,2025-03-03 22:32:42,,4.0,48,1.8283333333333334,,No
+TKT0136,2025-11-18 21:16:00,2025-11-18,21,Tuesday,Internet connection is slow,4,Medium,Network,Network Operations,Resolved,2025-11-19 05:30:10,2025-11-22 06:24:26,4.0,48,8.23611111111111,81.14055555555555,Yes
+TKT0137,2025-08-13 14:01:00,2025-08-13,14,Wednesday,VPN connection drops,3,Low,Network,Network Operations,Open,2025-08-14 03:14:37,,8.0,72,13.226944444444445,,Yes
+TKT0138,2025-07-06 01:31:00,2025-07-06,1,Sunday,Printer is not working,4,Medium,Hardware,Endpoint Support,Closed,2025-07-06 02:42:08,2025-07-09 09:45:35,4.0,48,1.1855555555555555,80.24305555555556,Yes
+TKT0139,2025-09-15 21:31:00,2025-09-15,21,Monday,Network drive unavailable,3,Low,Network,Network Operations,Open,2025-09-16 15:58:06,,8.0,72,18.451666666666668,,Yes
+TKT0140,2025-11-01 03:43:00,2025-11-01,3,Saturday,VPN connection drops,3,Medium,Network,Network Operations,Resolved,2025-11-01 06:27:57,2025-11-02 02:00:27,4.0,48,2.7491666666666665,22.29083333333333,No
+TKT0141,2025-03-06 04:10:00,2025-03-06,4,Thursday,Wi-Fi is not connecting,4,High,Network,Applications,Closed,2025-03-06 04:52:42,2025-03-07 18:26:13,1.0,24,0.7116666666666667,38.27027777777778,Yes
+TKT0142,2025-08-31 12:47:00,2025-08-31,12,Sunday,Application login error,3,Medium,Software,Applications,In Progress,2025-08-31 22:01:50,,4.0,48,9.247222222222222,,Yes
+TKT0143,2025-04-18 13:04:00,2025-04-18,13,Friday,Request for IT assistance,4,Medium,Other,Service Desk,In Progress,2025-04-19 03:23:26,,4.0,48,14.323888888888888,,Yes
+TKT0144,2025-11-23 21:11:00,2025-11-23,21,Sunday,Access permission required,3,Low,Account / Access,Service Desk,Resolved,2025-11-24 01:47:19,2025-11-26 18:34:55,8.0,72,4.605277777777777,69.39861111111111,No
+TKT0145,2025-08-09 12:10:00,2025-08-09,12,Saturday,Laptop will not turn on,5,Low,Hardware,Endpoint Support,Resolved,2025-08-09 18:40:38,2025-08-10 16:08:59,8.0,72,6.510555555555555,27.983055555555556,No
+TKT0146,2025-07-29 01:02:00,2025-07-29,1,Tuesday,System update failed,3,Medium,Software,Applications,Closed,2025-07-29 10:16:23,2025-07-29 21:35:40,4.0,48,9.239722222222222,20.56111111111111,Yes
+TKT0147,2025-01-30 20:55:00,2025-01-30,20,Thursday,New equipment request,3,Medium,Other,Service Desk,In Progress,2025-01-30 22:32:21,,4.0,48,1.6225,,No
+TKT0148,2025-03-17 08:49:00,2025-03-17,8,Monday,VPN connection drops,3,Medium,Network,Network Operations,Open,2025-03-17 12:16:34,,4.0,48,3.4594444444444443,,No
+TKT0149,2025-04-26 14:17:00,2025-04-26,14,Saturday,Multi-factor authentication issue,3,Low,Account / Access,Endpoint Support,Closed,2025-04-27 00:57:46,2025-04-28 22:29:38,8.0,72,10.679444444444444,56.21055555555556,Yes
+TKT0150,2025-09-01 16:25:00,2025-09-01,16,Monday,Network drive unavailable,3,High,Network,Network Operations,Resolved,2025-09-01 17:38:56,2025-09-02 16:16:39,1.0,24,1.2322222222222223,23.860833333333332,Yes
+TKT0151,2025-08-31 17:55:00,2025-08-31,17,Sunday,Internet connection is slow,4,High,Network,Infrastructure,Resolved,2025-08-31 19:56:44,2025-09-01 03:41:31,1.0,24,2.028888888888889,9.775277777777777,Yes
+TKT0152,2025-10-02 06:56:00,2025-10-02,6,Thursday,Password reset request,3,Low,Account / Access,Service Desk,In Progress,2025-10-02 16:23:16,,8.0,72,9.454444444444444,,Yes
+TKT0154,2025-08-04 09:20:00,2025-08-04,9,Monday,New equipment request,3,Low,Other,Service Desk,Open,2025-08-04 23:47:05,,8.0,72,14.45138888888889,,Yes
+TKT0155,2025-04-23 07:45:00,2025-04-23,7,Wednesday,Internet connection is slow,4,High,Network,Network Operations,In Progress,2025-04-23 08:45:24,,1.0,24,1.0066666666666666,,Yes
+TKT0156,2025-11-20 10:56:00,2025-11-20,10,Thursday,Unable to install software,4,Low,Software,Applications,Closed,2025-11-20 15:18:08,2025-11-24 16:42:11,8.0,72,4.368888888888889,101.76972222222223,Yes
+TKT0157,2025-12-08 12:38:00,2025-12-08,12,Monday,System update failed,3,Medium,Software,Applications,Open,2025-12-08 17:39:55,2025-12-12 07:43:54,4.0,48,5.031944444444444,91.09833333333333,Yes
+TKT0158,2025-11-01 20:37:00,2025-11-01,20,Saturday,Access permission required,3,High,Account / Access,Service Desk,In Progress,2025-11-01 22:27:49,,1.0,24,1.8469444444444445,,Yes
+TKT0159,2025-03-16 16:53:00,2025-03-16,16,Sunday,Application login error,3,Low,Software,Applications,Open,2025-03-17 01:51:22,,8.0,72,8.972777777777777,,Yes
+TKT0160,2025-04-18 07:06:00,2025-04-18,7,Friday,Keyboard keys are stuck,4,Low,Hardware,Endpoint Support,Closed,2025-04-18 13:50:22,2025-04-24 20:38:43,8.0,72,6.739444444444445,157.54527777777778,Yes
+TKT0161,2025-09-30 07:27:00,2025-09-30,7,Tuesday,Unable to install software,4,Critical,Software,Applications,Resolved,2025-09-30 07:37:32,2025-09-30 15:12:02,0.25,8,0.17555555555555555,7.750555555555556,No
+TKT0162,2025-04-17 08:23:00,2025-04-17,8,Thursday,General technical issue,3,Low,Other,Applications,In Progress,2025-04-17 20:23:46,,8.0,72,12.012777777777778,,Yes
+TKT0163,2025-07-06 08:35:00,2025-07-06,8,Sunday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,Closed,2025-07-06 09:44:45,2025-07-10 19:23:48,4.0,48,1.1625,106.81333333333333,Yes
+TKT0164,2025-06-23 15:01:00,2025-06-23,15,Monday,Office application crashes,3,High,Software,Applications,Closed,2025-06-23 16:39:29,2025-06-24 17:57:38,1.0,24,1.6413888888888888,26.94388888888889,Yes
+TKT0165,2025-01-12 23:13:00,2025-01-12,23,Sunday,New equipment request,3,Low,Other,Service Desk,In Progress,2025-01-13 07:47:02,,8.0,72,8.567222222222222,,Yes
+TKT0166,2025-10-31 08:02:00,2025-10-31,8,Friday,Wi-Fi is not connecting,4,Medium,Network,Network Operations,Resolved,2025-10-31 10:36:28,2025-10-31 23:13:01,4.0,48,2.5744444444444445,15.18361111111111,No
+TKT0168,2025-09-09 01:51:00,2025-09-09,1,Tuesday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,Open,2025-09-09 07:31:20,,4.0,48,5.6722222222222225,,Yes
+TKT0169,2025-05-08 11:54:00,2025-05-08,11,Thursday,Unable to install software,4,Low,Software,Applications,Closed,2025-05-08 14:35:11,2025-05-09 22:58:42,8.0,72,2.6863888888888887,35.07833333333333,No
+TKT0170,2025-11-30 06:31:00,2025-11-30,6,Sunday,Keyboard keys are stuck,4,High,Hardware,Endpoint Support,Open,2025-11-30 07:53:56,,1.0,24,1.3822222222222222,,Yes
+TKT0171,2025-12-11 17:15:00,2025-12-11,17,Thursday,Network drive unavailable,3,Critical,Network,Endpoint Support,In Progress,2025-12-11 17:20:03,,0.25,8,0.08416666666666667,,No
+TKT0172,2025-07-18 22:48:00,2025-07-18,22,Friday,Multi-factor authentication issue,3,Medium,Account / Access,Applications,Closed,2025-07-19 05:15:39,2025-07-19 19:08:50,4.0,48,6.460833333333333,20.34722222222222,Yes
+TKT0173,2025-09-25 11:51:00,2025-09-25,11,Thursday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Open,2025-09-25 13:38:01,,4.0,48,1.783611111111111,,No
+TKT0174,2025-08-02 21:56:00,2025-08-02,21,Saturday,Internet connection is slow,4,Low,Network,Endpoint Support,Resolved,2025-08-02 23:33:57,2025-08-08 13:00:57,8.0,72,1.6325,135.0825,Yes
+TKT0175,2025-09-13 23:43:00,2025-09-13,23,Saturday,System update failed,3,Medium,Software,Applications,Resolved,2025-09-14 01:10:48,2025-09-15 01:04:27,4.0,48,1.4633333333333334,25.3575,No
+TKT0176,2025-10-23 19:02:00,2025-10-23,19,Thursday,Request for IT assistance,4,Medium,Other,Service Desk,In Progress,2025-10-23 22:22:03,,4.0,48,3.3341666666666665,,No
+TKT0177,2025-01-26 08:09:00,2025-01-26,8,Sunday,Internet connection is slow,4,Low,Network,Network Operations,Resolved,2025-01-26 19:35:35,2025-01-27 23:44:38,8.0,72,11.443055555555556,39.59388888888889,Yes
+TKT0178,2025-11-24 14:58:00,2025-11-24,14,Monday,Printer is not working,4,Critical,Hardware,Endpoint Support,Open,2025-11-24 15:07:36,,0.25,8,0.16,,No
+TKT0179,2025-07-01 18:16:00,2025-07-01,18,Tuesday,Office application crashes,3,Medium,Software,Applications,Closed,2025-07-01 20:49:42,2025-07-04 07:49:46,4.0,48,2.5616666666666665,61.562777777777775,Yes
+TKT0180,2025-07-27 22:49:00,2025-07-27,22,Sunday,Office application crashes,3,Medium,Software,Applications,In Progress,2025-07-28 02:10:57,,4.0,48,3.3658333333333332,,No
+TKT0181,2025-11-21 02:52:00,2025-11-21,2,Friday,Keyboard keys are stuck,4,Low,Hardware,Endpoint Support,Resolved,2025-11-21 10:44:42,2025-11-26 23:47:08,8.0,72,7.878333333333333,140.9188888888889,Yes
+TKT0182,2025-08-07 10:07:00,2025-08-07,10,Thursday,Network drive unavailable,3,High,Network,Network Operations,In Progress,2025-08-07 10:42:45,,1.0,24,0.5958333333333333,,No
+TKT0183,2025-04-12 03:02:00,2025-04-12,3,Saturday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,Resolved,2025-04-12 07:32:57,2025-04-13 01:03:35,4.0,48,4.515833333333333,22.02638888888889,Yes
+TKT0184,2025-03-04 18:43:00,2025-03-04,18,Tuesday,General technical issue,3,Medium,Other,Service Desk,Closed,2025-03-05 01:20:46,2025-03-06 00:45:32,4.0,48,6.629444444444444,30.04222222222222,Yes
+TKT0185,2025-08-19 20:27:00,2025-08-19,20,Tuesday,Account locked out,3,High,Account / Access,Service Desk,Resolved,2025-08-19 21:09:10,2025-08-20 04:46:59,1.0,24,0.7027777777777777,8.333055555555555,No
+TKT0186,2025-05-13 12:02:00,2025-05-13,12,Tuesday,Password reset request,3,High,Account / Access,Service Desk,Open,2025-05-13 12:41:46,,1.0,24,0.6627777777777778,,No
+TKT0187,2025-06-14 04:22:00,2025-06-14,4,Saturday,Office application crashes,3,Medium,Software,Applications,Resolved,2025-06-14 12:40:05,2025-06-16 17:28:23,4.0,48,8.301388888888889,61.10638888888889,Yes
+TKT0188,2025-04-02 03:30:00,2025-04-02,3,Wednesday,VPN connection drops,3,Medium,Network,Network Operations,Open,2025-04-02 18:03:24,,4.0,48,14.556666666666667,,Yes
+TKT0189,2025-09-03 20:19:00,2025-09-03,20,Wednesday,Wi-Fi is not connecting,4,Medium,Network,Network Operations,Open,2025-09-04 01:32:28,,4.0,48,5.224444444444444,,Yes
+TKT0190,2025-06-03 12:08:00,2025-06-03,12,Tuesday,Internet connection is slow,4,Low,Network,Network Operations,Open,2025-06-04 18:06:44,,8.0,72,29.97888888888889,,Yes
+TKT0191,2025-08-08 23:28:00,2025-08-08,23,Friday,Network drive unavailable,3,High,Network,Network Operations,Closed,2025-08-08 23:47:55,2025-08-09 08:57:32,1.0,24,0.33194444444444443,9.492222222222223,No
+TKT0192,2025-10-30 15:30:00,2025-10-30,15,Thursday,Network drive unavailable,3,Medium,Network,Network Operations,Resolved,2025-10-30 15:58:31,2025-11-03 06:17:58,4.0,48,0.4752777777777778,86.79944444444445,Yes
+TKT0193,2025-09-27 19:39:00,2025-09-27,19,Saturday,Access permission required,3,High,Account / Access,Infrastructure,Open,2025-09-27 20:00:14,,1.0,24,0.35388888888888886,,No
+TKT0194,2025-10-07 17:30:00,2025-10-07,17,Tuesday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,In Progress,2025-10-07 20:55:03,,4.0,48,3.4175,,No
+TKT0195,2025-04-27 00:42:00,2025-04-27,0,Sunday,Access permission required,3,Critical,Account / Access,Service Desk,Closed,2025-04-27 01:02:51,2025-04-27 03:55:04,0.25,8,0.3475,3.2177777777777776,Yes
+TKT0197,2025-12-09 16:06:00,2025-12-09,16,Tuesday,New equipment request,3,Medium,Other,Service Desk,In Progress,2025-12-09 17:00:15,,4.0,48,0.9041666666666667,,No
+TKT0198,2025-10-19 16:40:00,2025-10-19,16,Sunday,Password reset request,3,High,Account / Access,Service Desk,Resolved,2025-10-19 18:33:11,2025-10-20 03:07:57,1.0,24,1.886388888888889,10.465833333333334,Yes
+TKT0199,2025-03-28 12:22:00,2025-03-28,12,Friday,Application login error,3,Medium,Software,Applications,Resolved,2025-03-28 17:18:29,2025-03-31 22:31:06,4.0,48,4.941388888888889,82.15166666666667,Yes
+TKT0200,2025-12-31 03:29:00,2025-12-31,3,Wednesday,Monitor display is flickering,4,High,Hardware,Endpoint Support,Closed,2025-12-31 04:38:16,2026-01-01 17:08:06,1.0,24,1.1544444444444444,37.651666666666664,Yes
+TKT0201,2025-08-20 22:42:00,2025-08-20,22,Wednesday,New equipment request,3,Low,Other,Service Desk,Resolved,2025-08-21 00:09:08,2025-08-22 03:10:37,8.0,72,1.4522222222222223,28.476944444444445,No
+TKT0202,2025-08-07 07:13:00,2025-08-07,7,Thursday,Internet connection is slow,4,Medium,Network,Network Operations,Open,2025-08-07 09:49:39,,4.0,48,2.6108333333333333,,No
+TKT0203,2025-01-20 09:41:00,2025-01-20,9,Monday,Password reset request,3,Medium,Account / Access,Service Desk,In Progress,2025-01-20 11:29:49,,4.0,48,1.813611111111111,,No
+TKT0204,2025-10-04 20:18:00,2025-10-04,20,Saturday,Printer is not working,4,Medium,Hardware,Endpoint Support,Open,2025-10-05 04:30:43,,4.0,48,8.211944444444445,,Yes
+TKT0205,2025-05-29 11:15:00,2025-05-29,11,Thursday,Office application crashes,3,Low,Software,Applications,Closed,2025-05-29 16:58:31,2025-06-01 04:54:28,8.0,72,5.7252777777777775,65.65777777777778,No
+TKT0206,2025-12-15 08:08:00,2025-12-15,8,Monday,Internet connection is slow,4,High,Network,Network Operations,In Progress,2025-12-15 09:16:54,,1.0,24,1.1483333333333334,,Yes
+TKT0207,2025-07-12 12:03:00,2025-07-12,12,Saturday,Unable to install software,4,High,Software,Applications,Resolved,2025-07-12 12:14:25,2025-07-13 20:38:44,1.0,24,0.19027777777777777,32.595555555555556,Yes
+TKT0208,2025-05-31 22:26:00,2025-05-31,22,Saturday,New equipment request,3,Critical,Other,Service Desk,Closed,2025-05-31 22:38:43,2025-06-01 01:15:45,0.25,8,0.21194444444444444,2.8291666666666666,No
+TKT0210,2025-07-29 10:42:00,2025-07-29,10,Tuesday,Multi-factor authentication issue,3,Critical,Account / Access,Service Desk,Resolved,2025-07-29 11:07:02,2025-07-30 04:20:24,0.25,8,0.4172222222222222,17.64,Yes
+TKT0211,2025-07-17 18:55:00,2025-07-17,18,Thursday,Password reset request,3,Low,Account / Access,Service Desk,In Progress,2025-07-18 10:36:44,,8.0,72,15.695555555555556,,Yes
+TKT0212,2025-02-08 05:20:00,2025-02-08,5,Saturday,Wi-Fi is not connecting,4,Medium,Network,Network Operations,In Progress,2025-02-08 11:34:58,,4.0,48,6.249444444444444,,Yes
+TKT0213,2025-12-13 09:27:00,2025-12-13,9,Saturday,New equipment request,3,Critical,Other,Service Desk,Resolved,2025-12-13 09:43:20,2025-12-14 03:29:20,0.25,8,0.2722222222222222,18.038888888888888,Yes
+TKT0214,2025-06-19 02:20:00,2025-06-19,2,Thursday,Computer is running slowly,4,Medium,Other,Service Desk,Open,2025-06-19 03:32:05,,4.0,48,1.2013888888888888,,No
+TKT0215,2025-10-17 01:58:00,2025-10-17,1,Friday,Password reset request,3,Medium,Account / Access,Service Desk,Resolved,2025-10-17 08:01:47,2025-10-21 01:18:24,4.0,48,6.063055555555556,95.34,Yes
+TKT0216,2025-09-01 23:17:00,2025-09-01,23,Monday,VPN connection drops,3,Low,Network,Network Operations,Closed,2025-09-02 01:18:04,2025-09-02 08:57:18,8.0,72,2.017777777777778,9.671666666666667,No
+TKT0217,2025-03-24 00:38:00,2025-03-24,0,Monday,Unable to install software,4,High,Software,Applications,Resolved,2025-03-24 01:09:26,2025-03-25 02:07:13,1.0,24,0.5238888888888888,25.486944444444443,Yes
+TKT0218,2025-05-21 15:44:00,2025-05-21,15,Wednesday,System update failed,3,Low,Software,Applications,Closed,2025-05-22 09:01:49,2025-05-23 14:55:27,8.0,72,17.296944444444446,47.19083333333333,Yes
+TKT0219,2025-05-15 13:17:00,2025-05-15,13,Thursday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,In Progress,2025-05-15 22:51:04,,4.0,48,9.567777777777778,,Yes
+TKT0220,2025-08-29 00:37:00,2025-08-29,0,Friday,Application login error,3,Medium,Software,Applications,Open,2025-08-29 01:16:55,,4.0,48,0.6652777777777777,,No
+TKT0221,2025-03-28 02:07:00,2025-03-28,2,Friday,Wi-Fi is not connecting,4,Medium,Network,Network Operations,Resolved,2025-03-28 05:39:06,2025-03-31 21:40:51,4.0,48,3.535,91.56416666666667,Yes
+TKT0222,2025-06-10 19:37:00,2025-06-10,19,Tuesday,General technical issue,3,Medium,Other,Service Desk,Resolved,2025-06-10 20:06:50,2025-06-13 07:12:28,4.0,48,0.49722222222222223,59.59111111111111,Yes
+TKT0223,2025-06-09 01:01:00,2025-06-09,1,Monday,General technical issue,3,High,Other,Service Desk,Open,2025-06-09 01:14:44,,1.0,24,0.2288888888888889,,No
+TKT0224,2025-02-14 23:18:00,2025-02-14,23,Friday,Unable to install software,4,Medium,Software,Service Desk,In Progress,2025-02-15 02:47:10,,4.0,48,3.486111111111111,,No
+TKT0225,2025-05-30 13:39:00,2025-05-30,13,Friday,Password reset request,3,Low,Account / Access,Service Desk,Closed,2025-05-30 17:05:49,2025-05-31 09:49:13,8.0,72,3.4469444444444446,20.170277777777777,No
+TKT0226,2025-02-12 01:01:00,2025-02-12,1,Wednesday,Wi-Fi is not connecting,4,Medium,Network,Network Operations,Resolved,2025-02-12 03:29:22,2025-02-14 13:56:03,4.0,48,2.472777777777778,60.9175,Yes
+TKT0227,2025-02-23 04:17:00,2025-02-23,4,Sunday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Open,2025-02-23 10:36:45,,4.0,48,6.329166666666667,,Yes
+TKT0228,2025-11-03 02:21:00,2025-11-03,2,Monday,System update failed,3,Low,Software,Applications,Closed,2025-11-03 05:45:08,2025-11-04 02:58:48,8.0,72,3.402222222222222,24.63,No
+TKT0229,2025-04-07 20:09:00,2025-04-07,20,Monday,Internet connection is slow,4,Medium,Network,Network Operations,In Progress,2025-04-07 22:32:11,,4.0,48,2.386388888888889,,No
+TKT0230,2025-01-03 12:42:00,2025-01-03,12,Friday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Closed,2025-01-03 14:22:10,2025-01-04 00:49:07,4.0,48,1.6694444444444445,12.118611111111111,No
+TKT0231,2025-09-10 01:34:00,2025-09-10,1,Wednesday,Password reset request,3,Medium,Account / Access,Service Desk,Open,2025-09-10 07:01:19,,4.0,48,5.455277777777778,,Yes
+TKT0232,2025-01-12 09:25:00,2025-01-12,9,Sunday,Office application crashes,3,High,Software,Applications,Closed,2025-01-12 09:47:16,2025-01-14 04:26:05,1.0,24,0.3711111111111111,43.018055555555556,Yes
+TKT0233,2025-06-08 05:03:00,2025-06-08,5,Sunday,Keyboard keys are stuck,4,Low,Hardware,Endpoint Support,In Progress,2025-06-08 09:48:11,,8.0,72,4.753055555555555,,No
+TKT0234,2025-08-22 12:01:00,2025-08-22,12,Friday,General technical issue,3,Low,Other,Service Desk,In Progress,2025-08-22 20:30:57,,8.0,72,8.499166666666667,,Yes
+TKT0235,2025-11-08 01:52:00,2025-11-08,1,Saturday,Keyboard keys are stuck,4,Medium,Hardware,Infrastructure,Closed,2025-11-08 03:34:02,2025-11-11 00:55:53,4.0,48,1.7005555555555556,71.06472222222222,Yes
+TKT0236,2025-05-14 21:31:00,2025-05-14,21,Wednesday,Application login error,3,High,Software,Applications,In Progress,2025-05-14 22:02:17,,1.0,24,0.5213888888888889,,No
+TKT0237,2025-02-11 23:03:00,2025-02-11,23,Tuesday,Monitor display is flickering,4,High,Hardware,Endpoint Support,In Progress,2025-02-11 23:14:36,,1.0,24,0.19333333333333333,,No
+TKT0238,2025-11-24 12:35:00,2025-11-24,12,Monday,Laptop will not turn on,5,Low,Hardware,Endpoint Support,In Progress,2025-11-25 07:58:15,,8.0,72,19.3875,,Yes
+TKT0239,2025-02-22 23:59:00,2025-02-22,23,Saturday,Internet connection is slow,4,Medium,Network,Network Operations,In Progress,2025-02-23 04:06:25,,4.0,48,4.123611111111111,,Yes
+TKT0240,2025-01-12 03:58:00,2025-01-12,3,Sunday,Computer is running slowly,4,Low,Other,Service Desk,Closed,2025-01-14 17:01:15,2025-01-18 02:17:57,8.0,72,61.05416666666667,142.3325,Yes
+TKT0241,2025-06-24 06:36:00,2025-06-24,6,Tuesday,Multi-factor authentication issue,3,High,Account / Access,Service Desk,Closed,2025-06-24 07:11:12,2025-06-24 13:52:01,1.0,24,0.5866666666666667,7.266944444444444,No
+TKT0242,2025-12-29 02:33:00,2025-12-29,2,Monday,Application login error,3,Medium,Software,Applications,Closed,2025-12-29 03:16:09,2025-12-30 13:12:58,4.0,48,0.7191666666666666,34.666111111111114,No
+TKT0243,2025-06-11 03:02:00,2025-06-11,3,Wednesday,Application login error,3,High,Software,Applications,Closed,2025-06-11 03:23:17,2025-06-12 20:49:57,1.0,24,0.3547222222222222,41.799166666666665,Yes
+TKT0245,2025-12-24 05:46:00,2025-12-24,5,Wednesday,Unable to install software,4,High,Software,Applications,Resolved,2025-12-24 08:16:23,2025-12-25 10:35:30,1.0,24,2.506388888888889,28.825,Yes
+TKT0246,2025-02-12 18:25:00,2025-02-12,18,Wednesday,Wi-Fi is not connecting,4,Low,Network,Network Operations,Open,2025-02-12 23:35:00,,8.0,72,5.166666666666667,,No
+TKT0247,2025-02-19 11:49:00,2025-02-19,11,Wednesday,Office application crashes,3,High,Software,Infrastructure,Resolved,2025-02-19 12:30:29,2025-02-21 04:11:19,1.0,24,0.6913888888888889,40.371944444444445,Yes
+TKT0248,2025-12-18 20:36:00,2025-12-18,20,Thursday,Wi-Fi is not connecting,4,Medium,Network,Network Operations,Closed,2025-12-19 05:23:36,2025-12-22 06:55:57,4.0,48,8.793333333333333,82.3325,Yes
+TKT0249,2025-07-28 18:14:00,2025-07-28,18,Monday,Password reset request,3,Low,Account / Access,Service Desk,In Progress,2025-07-29 12:08:26,,8.0,72,17.907222222222224,,Yes
+TKT0250,2025-07-03 19:19:00,2025-07-03,19,Thursday,Wi-Fi is not connecting,4,High,Network,Network Operations,Closed,2025-07-03 19:38:21,2025-07-04 00:35:28,1.0,24,0.3225,5.274444444444445,No
+TKT0251,2025-06-14 11:08:00,2025-06-14,11,Saturday,Office application crashes,3,Medium,Software,Applications,Open,2025-06-14 16:35:16,,4.0,48,5.454444444444444,,Yes
+TKT0252,2025-02-10 20:40:00,2025-02-10,20,Monday,System update failed,3,Low,Software,Applications,Open,2025-02-10 22:21:54,,8.0,72,1.6983333333333333,,No
+TKT0253,2025-03-11 10:34:00,2025-03-11,10,Tuesday,VPN connection drops,3,High,Network,Network Operations,In Progress,2025-03-11 10:57:10,,1.0,24,0.3861111111111111,,No
+TKT0255,2025-04-15 23:55:00,2025-04-15,23,Tuesday,Office application crashes,3,Critical,Software,Endpoint Support,Closed,2025-04-16 00:05:08,2025-04-16 02:34:34,0.25,8,0.1688888888888889,2.6594444444444445,No
+TKT0256,2025-10-11 09:00:00,2025-10-11,9,Saturday,VPN connection drops,3,Medium,Network,Network Operations,Closed,2025-10-11 12:13:40,2025-10-12 13:39:34,4.0,48,3.227777777777778,28.659444444444443,No
+TKT0257,2025-09-09 20:19:00,2025-09-09,20,Tuesday,Internet connection is slow,4,High,Network,Network Operations,Resolved,2025-09-09 22:01:42,2025-09-10 03:51:00,1.0,24,1.7116666666666667,7.533333333333333,Yes
+TKT0258,2025-11-25 01:56:00,2025-11-25,1,Tuesday,System update failed,3,Critical,Software,Applications,Closed,2025-11-25 02:02:08,2025-11-25 10:40:25,0.25,8,0.10222222222222223,8.740277777777777,Yes
+TKT0259,2025-08-04 02:07:00,2025-08-04,2,Monday,Network drive unavailable,3,Low,Network,Network Operations,Open,2025-08-04 09:52:47,,8.0,72,7.763055555555556,,No
+TKT0260,2025-10-11 17:08:00,2025-10-11,17,Saturday,Multi-factor authentication issue,3,Low,Account / Access,Service Desk,Resolved,2025-10-11 22:45:48,2025-10-14 21:12:03,8.0,72,5.63,76.0675,Yes
+TKT0262,2025-08-25 05:49:00,2025-08-25,5,Monday,Unable to install software,4,Low,Software,Applications,Open,2025-08-25 08:52:37,,8.0,72,3.060277777777778,,No
+TKT0263,2025-04-12 02:24:00,2025-04-12,2,Saturday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,In Progress,,,4.0,48,1.41,,No
+TKT0264,2025-02-26 00:17:00,2025-02-26,0,Wednesday,Unable to install software,4,Low,Software,Applications,Closed,2025-02-26 01:41:51,2025-02-27 22:33:45,8.0,72,1.4141666666666666,46.27916666666667,No
+TKT0266,2025-04-10 02:56:00,2025-04-10,2,Thursday,Multi-factor authentication issue,3,Medium,Account / Access,Endpoint Support,In Progress,2025-04-10 07:16:00,,4.0,48,4.333333333333333,,Yes
+TKT0267,2025-12-24 12:58:00,2025-12-24,12,Wednesday,General technical issue,3,Medium,Other,Applications,Resolved,2025-12-24 15:25:58,2025-12-25 00:57:59,4.0,48,2.466111111111111,11.999722222222223,No
+TKT0268,2025-05-26 11:45:00,2025-05-26,11,Monday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Open,2025-05-26 13:17:36,,4.0,48,1.5433333333333332,,No
+TKT0269,2025-02-20 08:38:00,2025-02-20,8,Thursday,Monitor display is flickering,4,Critical,Hardware,Endpoint Support,Closed,2025-02-20 08:42:53,2025-02-20 12:21:02,0.25,8,0.08138888888888889,3.7172222222222224,No
+TKT0270,2025-04-23 05:50:00,2025-04-23,5,Wednesday,System update failed,3,Low,Software,Applications,Open,2025-04-23 17:27:52,,8.0,72,11.63111111111111,,Yes
+TKT0271,2025-11-01 14:20:00,2025-11-01,14,Saturday,Office application crashes,3,Critical,Software,Applications,Resolved,2025-11-01 14:39:01,2025-11-01 16:27:32,0.25,8,0.3169444444444444,2.1255555555555556,Yes
+TKT0272,2025-05-02 02:58:00,2025-05-02,2,Friday,Application login error,3,Low,Software,Applications,Closed,2025-05-02 10:54:40,2025-05-08 23:05:29,8.0,72,7.944444444444445,164.12472222222223,Yes
+TKT0273,2025-07-08 09:46:00,2025-07-08,9,Tuesday,System update failed,3,Critical,Software,Applications,In Progress,2025-07-08 09:47:20,,0.25,8,0.022222222222222223,,No
+TKT0274,2025-12-31 10:16:00,2025-12-31,10,Wednesday,System update failed,3,Medium,Software,Applications,Resolved,2025-12-31 20:15:13,2026-01-01 11:49:22,4.0,48,9.986944444444445,25.55611111111111,Yes
+TKT0275,2025-09-11 15:29:00,2025-09-11,15,Thursday,Monitor display is flickering,4,Critical,Hardware,Infrastructure,In Progress,2025-09-11 15:42:07,,0.25,8,0.21861111111111112,,No
+TKT0276,2025-11-26 11:05:00,2025-11-26,11,Wednesday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,Open,2025-11-26 13:52:11,,4.0,48,2.786388888888889,,No
+TKT0277,2025-04-30 16:17:00,2025-04-30,16,Wednesday,VPN connection drops,3,High,Network,Network Operations,In Progress,2025-04-30 17:56:15,,1.0,24,1.6541666666666666,,Yes
+TKT0278,2025-10-22 22:43:00,2025-10-22,22,Wednesday,Office application crashes,3,Medium,Software,Applications,Closed,2025-10-23 02:07:22,2025-10-26 16:33:18,4.0,48,3.406111111111111,89.83833333333334,Yes
+TKT0279,2025-11-09 18:58:00,2025-11-09,18,Sunday,New equipment request,3,High,Other,Service Desk,In Progress,2025-11-09 19:24:24,,1.0,24,0.44,,No
+TKT0280,2025-03-16 02:14:00,2025-03-16,2,Sunday,Access permission required,3,High,Account / Access,Service Desk,Resolved,2025-03-16 03:07:28,2025-03-16 13:05:04,1.0,24,0.8911111111111111,10.851111111111111,No
+TKT0281,2025-12-23 10:21:00,2025-12-23,10,Tuesday,Monitor display is flickering,4,Low,Hardware,Endpoint Support,Closed,2025-12-23 16:54:23,2026-01-01 06:03:08,8.0,72,6.556388888888889,211.70222222222222,Yes
+TKT0283,2025-03-27 03:49:00,2025-03-27,3,Thursday,System update failed,3,High,Software,Applications,Closed,2025-03-27 05:30:57,2025-03-27 14:46:24,1.0,24,1.6991666666666667,10.956666666666667,Yes
+TKT0284,2025-12-21 09:10:00,2025-12-21,9,Sunday,VPN connection drops,3,Medium,Network,Network Operations,In Progress,2025-12-21 09:40:32,,4.0,48,0.5088888888888888,,No
+TKT0285,2025-11-25 09:48:00,2025-11-25,9,Tuesday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Open,2025-11-25 10:22:55,,4.0,48,0.5819444444444445,,No
+TKT0286,2025-12-27 10:13:00,2025-12-27,10,Saturday,Multi-factor authentication issue,3,Low,Account / Access,Endpoint Support,Closed,2025-12-27 15:29:37,2026-01-02 23:10:17,8.0,72,5.276944444444444,156.95472222222222,Yes
+TKT0287,2025-06-10 14:01:00,2025-06-10,14,Tuesday,VPN connection drops,3,Low,Network,Network Operations,Resolved,2025-06-10 20:46:15,2025-06-12 03:53:31,8.0,72,6.754166666666666,37.875277777777775,No
+TKT0288,2025-12-27 16:13:00,2025-12-27,16,Saturday,Wi-Fi is not connecting,4,High,Network,Network Operations,Resolved,2025-12-27 17:28:43,2025-12-28 20:50:34,1.0,24,1.2619444444444445,28.62611111111111,Yes
+TKT0289,2025-11-06 14:07:00,2025-11-06,14,Thursday,Office application crashes,3,High,Software,Applications,Resolved,2025-11-06 16:22:43,2025-11-07 16:38:37,1.0,24,2.2619444444444445,26.526944444444446,Yes
+TKT0290,2025-11-16 17:18:00,2025-11-16,17,Sunday,Application login error,3,Medium,Software,Applications,In Progress,2025-11-16 18:05:47,,4.0,48,0.7963888888888889,,No
+TKT0291,2025-04-12 09:18:00,2025-04-12,9,Saturday,Network drive unavailable,3,High,Network,Network Operations,Open,2025-04-12 10:09:07,,1.0,24,0.8519444444444444,,No
+TKT0293,2025-04-03 09:31:00,2025-04-03,9,Thursday,Account locked out,3,Critical,Account / Access,Applications,Resolved,2025-04-03 09:42:16,2025-04-03 19:22:44,0.25,8,0.18777777777777777,9.862222222222222,Yes
+TKT0294,2025-07-15 16:10:00,2025-07-15,16,Tuesday,Wi-Fi is not connecting,4,High,Network,Network Operations,Open,2025-07-15 16:37:00,,1.0,24,0.45,,No
+TKT0295,2025-09-26 17:59:00,2025-09-26,17,Friday,Password reset request,3,Medium,Account / Access,Service Desk,Open,2025-09-26 23:02:07,,4.0,48,5.051944444444445,,Yes
+TKT0296,2025-09-18 20:23:00,2025-09-18,20,Thursday,Unable to install software,4,High,Software,Applications,Closed,2025-09-18 21:04:17,2025-09-19 06:46:58,1.0,24,0.6880555555555555,10.399444444444445,No
+TKT0297,2025-08-24 02:28:00,2025-08-24,2,Sunday,Multi-factor authentication issue,3,Critical,Account / Access,Service Desk,In Progress,2025-08-24 02:42:18,,0.25,8,0.23833333333333334,,No
+TKT0298,2025-02-03 10:54:00,2025-02-03,10,Monday,Computer is running slowly,4,High,Other,Service Desk,Open,2025-02-03 13:05:50,,1.0,24,2.1972222222222224,,Yes
+TKT0299,2025-04-07 01:20:00,2025-04-07,1,Monday,Laptop will not turn on,5,Medium,Hardware,Infrastructure,Resolved,2025-04-07 03:25:42,2025-04-07 15:36:59,4.0,48,2.095,14.283055555555556,No
+TKT0300,2025-05-01 12:45:00,2025-05-01,12,Thursday,System update failed,3,Medium,Software,Applications,In Progress,2025-05-01 20:39:12,,4.0,48,7.903333333333333,,Yes
+TKT0301,2025-12-14 04:48:00,2025-12-14,4,Sunday,Password reset request,3,Medium,Account / Access,Service Desk,Closed,2025-12-14 12:31:28,2025-12-14 19:42:09,4.0,48,7.724444444444444,14.9025,Yes
+TKT0302,2025-11-04 12:28:00,2025-11-04,12,Tuesday,System update failed,3,Low,Software,Applications,In Progress,2025-11-04 22:53:35,,8.0,72,10.426388888888889,,Yes
+TKT0304,2025-04-30 12:08:00,2025-04-30,12,Wednesday,Internet connection is slow,4,Low,Network,Network Operations,In Progress,2025-04-30 14:56:00,,8.0,72,2.8,,No
+TKT0305,2025-03-15 03:45:00,2025-03-15,3,Saturday,System update failed,3,Medium,Software,Applications,Resolved,2025-03-15 08:50:22,2025-03-18 23:08:44,4.0,48,5.089444444444444,91.39555555555556,Yes
+TKT0306,2025-03-03 08:21:00,2025-03-03,8,Monday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,Resolved,2025-03-03 12:44:18,2025-03-04 12:53:41,4.0,48,4.388333333333334,28.544722222222223,Yes
+TKT0307,2025-05-18 08:50:00,2025-05-18,8,Sunday,VPN connection drops,3,High,Network,Network Operations,Open,2025-05-18 09:38:47,,1.0,24,0.8130555555555555,,No
+TKT0308,2025-02-21 17:01:00,2025-02-21,17,Friday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,Resolved,2025-02-22 11:24:44,2025-02-23 01:48:18,4.0,48,18.395555555555557,32.788333333333334,Yes
+TKT0309,2025-09-24 02:02:00,2025-09-24,2,Wednesday,Password reset request,3,Low,Account / Access,Service Desk,Open,2025-09-24 07:42:32,,8.0,72,5.6755555555555555,,No
+TKT0310,2025-02-14 00:46:00,2025-02-14,0,Friday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Resolved,2025-02-14 04:35:12,2025-02-15 11:58:04,4.0,48,3.82,35.20111111111111,No
+TKT0312,2025-02-18 03:26:00,2025-02-18,3,Tuesday,Office application crashes,3,Medium,Software,Applications,In Progress,2025-02-18 15:09:05,,4.0,48,11.718055555555555,,Yes
+TKT0313,2025-02-10 01:41:00,2025-02-10,1,Monday,Request for IT assistance,4,Low,Other,Service Desk,In Progress,2025-02-10 20:17:03,,8.0,72,18.600833333333334,,Yes
+TKT0314,2025-12-28 11:26:00,2025-12-28,11,Sunday,Printer is not working,4,Low,Hardware,Endpoint Support,Resolved,2025-12-28 13:47:21,2025-12-30 04:03:16,8.0,72,2.3558333333333334,40.62111111111111,No
+TKT0315,2025-01-22 09:02:00,2025-01-22,9,Wednesday,Access permission required,3,Medium,Account / Access,Service Desk,Open,2025-01-22 11:45:06,,4.0,48,2.7183333333333333,,No
+TKT0316,2025-11-28 11:09:00,2025-11-28,11,Friday,Network drive unavailable,3,High,Network,Network Operations,In Progress,2025-11-28 11:19:04,,1.0,24,0.16777777777777778,,No
+TKT0317,2025-06-16 07:39:00,2025-06-16,7,Monday,Account locked out,3,Low,Account / Access,Service Desk,Open,2025-06-16 12:13:57,,8.0,72,4.5825,,No
+TKT0318,2025-01-26 18:01:00,2025-01-26,18,Sunday,Unable to install software,4,Low,Software,Infrastructure,Closed,2025-01-26 20:19:50,2025-01-27 06:55:12,8.0,72,2.313888888888889,12.903333333333334,No
+TKT0319,2025-07-17 12:34:00,2025-07-17,12,Thursday,Office application crashes,3,Medium,Software,Applications,Open,2025-07-17 17:35:23,,4.0,48,5.023055555555556,,Yes
+TKT0320,2025-02-20 04:34:00,2025-02-20,4,Thursday,Access permission required,3,Low,Account / Access,Network Operations,Resolved,2025-02-20 06:25:10,2025-02-20 21:28:00,8.0,72,1.8527777777777779,16.9,No
+TKT0321,2025-08-01 07:59:00,2025-08-01,7,Friday,System update failed,3,Low,Software,Applications,In Progress,2025-08-01 11:57:30,,8.0,72,3.975,,No
+TKT0322,2025-06-28 11:54:00,2025-06-28,11,Saturday,New equipment request,3,Medium,Other,Infrastructure,Open,2025-06-28 21:31:17,,4.0,48,9.62138888888889,,Yes
+TKT0323,2025-03-17 16:38:00,2025-03-17,16,Monday,Internet connection is slow,4,Low,Network,Applications,Closed,2025-03-17 20:54:18,2025-03-19 05:00:56,8.0,72,4.2716666666666665,36.382222222222225,No
+TKT0324,2025-07-23 18:18:00,2025-07-23,18,Wednesday,New equipment request,3,Critical,Other,Service Desk,Closed,2025-07-23 18:53:50,2025-07-23 23:03:43,0.25,8,0.5972222222222222,4.7619444444444445,Yes
+TKT0325,2025-04-08 05:19:00,2025-04-08,5,Tuesday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Open,2025-04-08 07:28:41,,4.0,48,2.161388888888889,,No
+TKT0326,2025-08-18 09:10:00,2025-08-18,9,Monday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,Resolved,2025-08-18 20:34:43,2025-08-21 06:26:31,4.0,48,11.411944444444444,69.27527777777777,Yes
+TKT0327,2025-03-21 08:26:00,2025-03-21,8,Friday,Office application crashes,3,Medium,Software,Infrastructure,Closed,2025-03-21 13:45:13,2025-03-21 21:24:41,4.0,48,5.320277777777778,12.978055555555555,Yes
+TKT0328,2025-08-13 12:04:00,2025-08-13,12,Wednesday,Computer is running slowly,4,Medium,Other,Service Desk,Open,2025-08-14 08:26:21,,4.0,48,20.3725,,Yes
+TKT0329,2025-01-30 08:48:00,2025-01-30,8,Thursday,Office application crashes,3,High,Software,Applications,In Progress,2025-01-30 09:27:26,,1.0,24,0.6572222222222223,,No
+TKT0330,2025-02-05 15:28:00,2025-02-05,15,Wednesday,Request for IT assistance,4,High,Other,Service Desk,In Progress,2025-02-05 16:13:41,,1.0,24,0.7613888888888889,,No
+TKT0331,2025-07-01 22:29:00,2025-07-01,22,Tuesday,Password reset request,3,Critical,Account / Access,Service Desk,Open,2025-07-01 22:47:38,,0.25,8,0.31055555555555553,,Yes
+TKT0332,2025-05-25 06:37:00,2025-05-25,6,Sunday,Access permission required,3,Low,Account / Access,Service Desk,Open,2025-05-25 11:40:55,,8.0,72,5.065277777777778,,No
+TKT0333,2025-11-19 21:31:00,2025-11-19,21,Wednesday,Laptop will not turn on,5,High,Hardware,Infrastructure,Resolved,2025-11-19 21:53:02,2025-11-22 00:08:05,1.0,24,0.3672222222222222,50.61805555555556,Yes
+TKT0334,2025-11-12 09:57:00,2025-11-12,9,Wednesday,System update failed,3,Low,Software,Applications,Open,2025-11-12 14:11:25,,8.0,72,4.240277777777778,,No
+TKT0335,2025-05-17 06:42:00,2025-05-17,6,Saturday,Laptop will not turn on,5,High,Hardware,Endpoint Support,In Progress,2025-05-17 06:46:40,,1.0,24,0.07777777777777778,,No
+TKT0336,2025-12-30 06:45:00,2025-12-30,6,Tuesday,Wi-Fi is not connecting,4,Medium,Network,Network Operations,Open,2025-12-30 13:47:43,,4.0,48,7.045277777777778,,Yes
+TKT0337,2025-07-01 10:10:00,2025-07-01,10,Tuesday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Open,2025-07-01 12:08:35,,4.0,48,1.976388888888889,,No
+TKT0338,2025-12-19 22:23:00,2025-12-19,22,Friday,System update failed,3,High,Software,Applications,Resolved,2025-12-19 22:35:38,2025-12-20 06:41:11,1.0,24,0.21055555555555555,8.303055555555556,No
+TKT0339,2025-01-22 08:06:00,2025-01-22,8,Wednesday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Open,2025-01-22 09:10:09,,4.0,48,1.0691666666666666,,No
+TKT0340,2025-03-14 21:58:00,2025-03-14,21,Friday,Account locked out,3,Medium,Account / Access,Infrastructure,Open,2025-03-15 03:27:46,,4.0,48,5.496111111111111,,Yes
+TKT0341,2025-05-07 11:50:00,2025-05-07,11,Wednesday,Request for IT assistance,4,Medium,Other,Service Desk,Resolved,2025-05-07 16:27:52,2025-05-08 00:35:38,4.0,48,4.631111111111111,12.760555555555555,Yes
+TKT0342,2025-04-14 11:25:00,2025-04-14,11,Monday,Application login error,3,High,Software,Applications,Closed,2025-04-14 11:50:38,2025-04-16 18:15:24,1.0,24,0.4272222222222222,54.84,Yes
+TKT0343,2025-06-09 07:57:00,2025-06-09,7,Monday,Printer is not working,4,Low,Hardware,Endpoint Support,In Progress,2025-06-09 22:06:12,,8.0,72,14.153333333333334,,Yes
+TKT0344,2025-08-24 15:07:00,2025-08-24,15,Sunday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,In Progress,2025-08-24 20:20:37,,4.0,48,5.226944444444444,,Yes
+TKT0345,2025-10-16 01:32:00,2025-10-16,1,Thursday,Account locked out,3,High,Account / Access,Applications,Resolved,2025-10-16 02:40:52,2025-10-16 22:17:50,1.0,24,1.1477777777777778,20.76388888888889,Yes
+TKT0347,2025-08-03 11:03:00,2025-08-03,11,Sunday,Password reset request,3,Medium,Account / Access,Service Desk,Closed,2025-08-03 19:31:53,2025-08-05 10:17:02,4.0,48,8.481388888888889,47.23388888888889,Yes
+TKT0348,2025-06-10 20:25:00,2025-06-10,20,Tuesday,Office application crashes,3,Low,Software,Applications,Resolved,2025-06-11 04:46:26,2025-06-15 20:40:23,8.0,72,8.357222222222223,120.25638888888889,Yes
+TKT0349,2025-03-06 14:35:00,2025-03-06,14,Thursday,General technical issue,3,Low,Other,Service Desk,Resolved,2025-03-06 21:20:00,2025-03-07 08:03:00,8.0,72,6.75,17.466666666666665,No
+TKT0350,2025-09-13 05:06:00,2025-09-13,5,Saturday,Monitor display is flickering,4,Low,Hardware,Endpoint Support,Closed,2025-09-13 15:59:25,2025-09-16 08:48:55,8.0,72,10.890277777777778,75.71527777777777,Yes
+TKT0351,2025-10-03 18:28:00,2025-10-03,18,Friday,Computer is running slowly,4,High,Other,Network Operations,Closed,2025-10-03 18:53:40,2025-10-05 03:08:49,1.0,24,0.42777777777777776,32.680277777777775,Yes
+TKT0352,2025-01-15 14:53:00,2025-01-15,14,Wednesday,Keyboard keys are stuck,4,Low,Hardware,Applications,Open,2025-01-15 17:50:35,,8.0,72,2.959722222222222,,No
+TKT0353,2025-03-09 19:07:00,2025-03-09,19,Sunday,Office application crashes,3,Low,Software,Applications,Closed,2025-03-09 20:36:48,2025-03-12 17:26:32,8.0,72,1.4966666666666666,70.32555555555555,No
+TKT0354,2025-11-13 04:12:00,2025-11-13,4,Thursday,Network drive unavailable,3,Medium,Network,Network Operations,Resolved,2025-11-13 09:10:01,2025-11-15 17:59:56,4.0,48,4.966944444444445,61.79888888888889,Yes
+TKT0355,2025-12-24 11:56:00,2025-12-24,11,Wednesday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Resolved,2025-12-24 18:21:14,2025-12-28 22:09:10,4.0,48,6.420555555555556,106.21944444444445,Yes
+TKT0356,2025-08-01 11:46:00,2025-08-01,11,Friday,Keyboard keys are stuck,4,Low,Hardware,Endpoint Support,Open,2025-08-01 17:55:22,,8.0,72,6.1561111111111115,,No
+TKT0357,2025-03-08 08:43:00,2025-03-08,8,Saturday,System update failed,3,High,Software,Applications,Resolved,2025-03-08 09:08:13,2025-03-09 04:47:22,1.0,24,0.42027777777777775,20.072777777777777,No
+TKT0358,2025-12-05 15:28:00,2025-12-05,15,Friday,Unable to install software,4,Medium,Software,Applications,Open,2025-12-05 17:59:22,,4.0,48,2.522777777777778,,No
+TKT0359,2025-09-08 08:11:00,2025-09-08,8,Monday,Wi-Fi is not connecting,4,High,Network,Network Operations,In Progress,2025-09-08 08:53:43,,1.0,24,0.7119444444444445,,No
+TKT0360,2025-12-12 18:09:00,2025-12-12,18,Friday,Password reset request,3,High,Account / Access,Service Desk,Resolved,2025-12-12 18:38:09,2025-12-13 08:24:28,1.0,24,0.48583333333333334,14.257777777777777,No
+TKT0361,2025-04-18 08:50:00,2025-04-18,8,Friday,Account locked out,3,Medium,Account / Access,Service Desk,In Progress,2025-04-18 17:28:24,,4.0,48,8.64,,Yes
+TKT0362,2025-05-28 00:47:00,2025-05-28,0,Wednesday,Application login error,3,Low,Software,Network Operations,Resolved,2025-05-28 02:33:06,2025-05-31 06:44:03,8.0,72,1.7683333333333333,77.95083333333334,Yes
+TKT0363,2025-10-10 14:31:00,2025-10-10,14,Friday,General technical issue,3,High,Other,Service Desk,Resolved,2025-10-10 15:15:42,2025-10-11 03:28:43,1.0,24,0.745,12.961944444444445,No
+TKT0364,2025-11-02 12:56:00,2025-11-02,12,Sunday,Laptop will not turn on,5,High,Hardware,Endpoint Support,Open,2025-11-02 14:14:34,,1.0,24,1.3094444444444444,,Yes
+TKT0365,2025-09-08 09:32:00,2025-09-08,9,Monday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Closed,2025-09-08 11:13:17,2025-09-09 02:08:02,4.0,48,1.6880555555555556,16.600555555555555,No
+TKT0366,2025-10-20 12:33:00,2025-10-20,12,Monday,Office application crashes,3,Low,Software,Applications,In Progress,2025-10-21 07:18:47,,8.0,72,18.763055555555557,,Yes
+TKT0367,2025-09-04 00:38:00,2025-09-04,0,Thursday,General technical issue,3,High,Other,Service Desk,Resolved,2025-09-04 01:32:03,2025-09-04 04:46:59,1.0,24,0.9008333333333334,4.1497222222222225,No
+TKT0368,2025-04-08 20:33:00,2025-04-08,20,Tuesday,Network drive unavailable,3,High,Network,Infrastructure,Resolved,2025-04-08 22:01:50,2025-04-09 17:45:35,1.0,24,1.4805555555555556,21.209722222222222,Yes
+TKT0369,2025-11-18 15:33:00,2025-11-18,15,Tuesday,Network drive unavailable,3,High,Network,Network Operations,Closed,2025-11-18 16:20:51,2025-11-19 22:38:40,1.0,24,0.7975,31.094444444444445,Yes
+TKT0370,2025-08-15 13:16:00,2025-08-15,13,Friday,VPN connection drops,3,High,Network,Network Operations,Open,2025-08-15 15:43:48,,1.0,24,2.4633333333333334,,Yes
+TKT0372,2025-04-01 04:50:00,2025-04-01,4,Tuesday,System update failed,3,Medium,Software,Applications,Closed,2025-04-01 06:24:37,2025-04-02 11:10:53,4.0,48,1.5769444444444445,30.348055555555554,No
+TKT0373,2025-09-12 16:29:00,2025-09-12,16,Friday,Password reset request,3,Low,Account / Access,Service Desk,Resolved,2025-09-13 00:21:04,2025-09-13 18:23:07,8.0,72,7.8677777777777775,25.901944444444446,No
+TKT0374,2025-06-06 01:29:00,2025-06-06,1,Friday,Application login error,3,Medium,Software,Applications,In Progress,2025-06-06 04:30:08,,4.0,48,3.0188888888888887,,No
+TKT0375,2025-12-12 05:26:00,2025-12-12,5,Friday,VPN connection drops,3,Medium,Network,Service Desk,Open,2025-12-12 07:01:38,,4.0,48,1.593888888888889,,No
+TKT0376,2025-07-20 12:35:00,2025-07-20,12,Sunday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Resolved,2025-07-20 13:49:32,2025-07-20 23:22:54,4.0,48,1.2422222222222221,10.798333333333334,No
+TKT0377,2025-10-17 04:44:00,2025-10-17,4,Friday,Application login error,3,Medium,Software,Applications,Resolved,2025-10-17 05:55:27,2025-10-21 19:05:56,4.0,48,1.1908333333333334,110.36555555555556,Yes
+TKT0378,2025-07-21 07:53:00,2025-07-21,7,Monday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,Resolved,2025-07-21 09:05:59,2025-07-30 06:11:57,4.0,48,1.216388888888889,214.31583333333333,Yes
+TKT0379,2025-02-11 08:12:00,2025-02-11,8,Tuesday,Network drive unavailable,3,Low,Network,Network Operations,Closed,2025-02-11 15:54:58,2025-02-13 11:28:39,8.0,72,7.716111111111111,51.2775,No
+TKT0380,2025-08-04 06:03:00,2025-08-04,6,Monday,Password reset request,3,High,Account / Access,Service Desk,Closed,2025-08-04 06:22:37,2025-08-05 07:12:35,1.0,24,0.3269444444444444,25.15972222222222,Yes
+TKT0381,2025-09-07 21:16:00,2025-09-07,21,Sunday,New equipment request,3,Medium,Other,Service Desk,Closed,2025-09-07 22:54:25,2025-09-11 07:44:41,4.0,48,1.6402777777777777,82.47805555555556,Yes
+TKT0382,2025-05-12 21:34:00,2025-05-12,21,Monday,Account locked out,3,Medium,Account / Access,Endpoint Support,Resolved,2025-05-13 17:43:27,2025-05-14 01:15:28,4.0,48,20.1575,27.691111111111113,Yes
+TKT0383,2025-06-11 20:09:00,2025-06-11,20,Wednesday,General technical issue,3,Critical,Other,Service Desk,Resolved,2025-06-11 20:33:27,2025-06-11 23:04:37,0.25,8,0.4075,2.9269444444444446,Yes
+TKT0384,2025-08-03 02:54:00,2025-08-03,2,Sunday,System update failed,3,High,Software,Applications,Open,2025-08-03 03:31:55,,1.0,24,0.6319444444444444,,No
+TKT0385,2025-08-06 06:08:00,2025-08-06,6,Wednesday,VPN connection drops,3,High,Network,Network Operations,In Progress,2025-08-06 06:31:37,,1.0,24,0.39361111111111113,,No
+TKT0386,2025-04-15 07:01:00,2025-04-15,7,Tuesday,System update failed,3,Critical,Software,Network Operations,Open,2025-04-15 07:18:10,,0.25,8,0.2861111111111111,,Yes
+TKT0387,2025-02-12 05:51:00,2025-02-12,5,Wednesday,Computer is running slowly,4,Medium,Other,Service Desk,In Progress,2025-02-12 11:46:54,,4.0,48,5.931666666666667,,Yes
+TKT0388,2025-11-12 19:39:00,2025-11-12,19,Wednesday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Closed,2025-11-12 23:55:32,2025-11-13 04:48:57,4.0,48,4.275555555555556,9.165833333333333,Yes
+TKT0389,2025-01-11 06:00:00,2025-01-11,6,Saturday,Wi-Fi is not connecting,4,Low,Network,Network Operations,In Progress,2025-01-11 08:54:23,,8.0,72,2.906388888888889,,No
+TKT0390,2025-09-08 17:56:00,2025-09-08,17,Monday,VPN connection drops,3,High,Network,Network Operations,Resolved,2025-09-08 18:32:44,2025-09-10 10:14:00,1.0,24,0.6122222222222222,40.3,Yes
+TKT0391,2025-09-04 00:05:00,2025-09-04,0,Thursday,Keyboard keys are stuck,4,Low,Hardware,Network Operations,In Progress,2025-09-04 06:04:39,,8.0,72,5.994166666666667,,No
+TKT0392,2025-05-01 01:32:00,2025-05-01,1,Thursday,Office application crashes,3,Critical,Software,Applications,Closed,,2025-05-01 09:22:26,0.25,8,0.22,7.8405555555555555,No
+TKT0393,2025-01-16 22:57:00,2025-01-16,22,Thursday,Multi-factor authentication issue,3,Low,Account / Access,Service Desk,Open,2025-01-17 07:05:15,,8.0,72,8.1375,,Yes
+TKT0394,2025-02-05 09:07:00,2025-02-05,9,Wednesday,Office application crashes,3,High,Software,Applications,Open,2025-02-05 10:22:59,,1.0,24,1.2663888888888888,,Yes
+TKT0395,2025-07-04 00:55:00,2025-07-04,0,Friday,Application login error,3,High,Software,Applications,Open,2025-07-04 01:31:52,,1.0,24,0.6144444444444445,,No
+TKT0396,2025-04-10 21:06:00,2025-04-10,21,Thursday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,Open,,,4.0,48,3.67,,No
+TKT0397,2025-05-26 10:52:00,2025-05-26,10,Monday,Keyboard keys are stuck,4,Low,Hardware,Endpoint Support,In Progress,2025-05-26 17:19:42,,8.0,72,6.461666666666667,,No
+TKT0398,2025-12-28 10:25:00,2025-12-28,10,Sunday,Application login error,3,High,Software,Applications,Closed,2025-12-28 10:41:25,2025-12-29 19:11:55,1.0,24,0.27361111111111114,32.78194444444444,Yes
+TKT0399,2025-03-22 09:55:00,2025-03-22,9,Saturday,Laptop will not turn on,5,Low,Hardware,Endpoint Support,In Progress,2025-03-22 14:57:16,,8.0,72,5.0377777777777775,,No
+TKT0400,2025-07-06 08:02:00,2025-07-06,8,Sunday,Keyboard keys are stuck,4,High,Hardware,Endpoint Support,Resolved,2025-07-06 08:41:53,2025-07-06 23:14:56,1.0,24,0.6647222222222222,15.215555555555556,No
+TKT0401,2025-01-29 17:20:00,2025-01-29,17,Wednesday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Resolved,2025-01-29 22:50:27,2025-01-30 13:32:32,4.0,48,5.5075,20.20888888888889,Yes
+TKT0402,2025-02-03 09:58:00,2025-02-03,9,Monday,Keyboard keys are stuck,4,High,Hardware,Endpoint Support,Resolved,2025-02-03 11:15:37,2025-02-03 20:29:13,1.0,24,1.293611111111111,10.520277777777778,Yes
+TKT0403,2025-03-09 16:26:00,2025-03-09,16,Sunday,General technical issue,3,High,Other,Service Desk,Open,2025-03-09 16:53:32,,1.0,24,0.4588888888888889,,No
+TKT0404,2025-11-04 02:26:00,2025-11-04,2,Tuesday,Unable to install software,4,Medium,Software,Applications,Open,2025-11-04 05:32:20,,4.0,48,3.1055555555555556,,No
+TKT0405,2025-03-17 12:31:00,2025-03-17,12,Monday,Printer is not working,4,High,Hardware,Infrastructure,Closed,2025-03-17 14:17:30,2025-03-17 20:07:25,1.0,24,1.775,7.606944444444444,Yes
+TKT0406,2025-04-06 03:22:00,2025-04-06,3,Sunday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Closed,2025-04-06 05:36:20,2025-04-07 00:45:58,4.0,48,2.238888888888889,21.399444444444445,No
+TKT0407,2025-06-13 02:25:00,2025-06-13,2,Friday,Office application crashes,3,Low,Software,Applications,Resolved,2025-06-13 18:57:51,2025-06-15 06:08:49,8.0,72,16.5475,51.73027777777778,Yes
+TKT0408,2025-10-08 06:12:00,2025-10-08,6,Wednesday,Password reset request,3,Medium,Account / Access,Service Desk,Open,2025-10-08 15:13:40,,4.0,48,9.027777777777779,,Yes
+TKT0409,2025-05-01 10:38:00,2025-05-01,10,Thursday,Laptop will not turn on,5,Medium,Hardware,Network Operations,Resolved,2025-05-01 17:47:11,2025-05-03 20:37:48,4.0,48,7.1530555555555555,57.99666666666667,Yes
+TKT0410,2025-06-21 02:55:00,2025-06-21,2,Saturday,Internet connection is slow,4,Medium,Network,Network Operations,Open,2025-06-21 09:48:14,,4.0,48,6.887222222222222,,Yes
+TKT0411,2025-01-13 22:32:00,2025-01-13,22,Monday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,Open,2025-01-14 05:14:32,,4.0,48,6.708888888888889,,Yes
+TKT0412,2025-05-31 14:59:00,2025-05-31,14,Saturday,New equipment request,3,High,Other,Service Desk,Resolved,2025-05-31 19:04:20,2025-06-01 02:19:05,1.0,24,4.088888888888889,11.334722222222222,Yes
+TKT0413,2025-12-11 12:36:00,2025-12-11,12,Thursday,Password reset request,3,High,Account / Access,Applications,Closed,2025-12-11 13:03:18,2025-12-13 08:51:32,1.0,24,0.455,44.25888888888889,Yes
+TKT0414,2025-09-16 14:30:00,2025-09-16,14,Tuesday,Network drive unavailable,3,Low,Network,Network Operations,Resolved,2025-09-17 08:53:57,2025-09-17 20:39:32,8.0,72,18.399166666666666,30.15888888888889,Yes
+TKT0415,2025-04-13 06:31:00,2025-04-13,6,Sunday,Laptop will not turn on,5,High,Hardware,Endpoint Support,Closed,2025-04-13 06:58:51,2025-04-13 18:33:43,1.0,24,0.46416666666666667,12.045277777777779,No
+TKT0416,2025-10-14 02:21:00,2025-10-14,2,Tuesday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,In Progress,2025-10-14 03:14:12,,4.0,48,0.8866666666666667,,No
+TKT0417,2025-03-31 17:24:00,2025-03-31,17,Monday,System update failed,3,Low,Software,Endpoint Support,In Progress,2025-03-31 19:43:43,,8.0,72,2.328611111111111,,No
+TKT0418,2025-11-12 03:54:00,2025-11-12,3,Wednesday,Account locked out,3,Low,Account / Access,Service Desk,In Progress,2025-11-12 08:57:27,,8.0,72,5.0575,,No
+TKT0419,2025-08-23 08:37:00,2025-08-23,8,Saturday,Keyboard keys are stuck,4,High,Hardware,Endpoint Support,In Progress,2025-08-23 10:51:49,,1.0,24,2.2469444444444444,,Yes
+TKT0420,2025-04-08 02:50:00,2025-04-08,2,Tuesday,Application login error,3,Medium,Software,Applications,Resolved,2025-04-08 10:36:26,2025-04-09 04:10:50,4.0,48,7.773888888888889,25.34722222222222,Yes
+TKT0421,2025-05-27 06:47:00,2025-05-27,6,Tuesday,Computer is running slowly,4,High,Other,Service Desk,Resolved,2025-05-27 07:24:29,2025-05-28 07:28:00,1.0,24,0.6247222222222222,24.683333333333334,Yes
+TKT0422,2025-08-23 18:01:00,2025-08-23,18,Saturday,Internet connection is slow,4,Critical,Network,Endpoint Support,Closed,2025-08-23 18:04:58,2025-08-24 00:37:27,0.25,8,0.0661111111111111,6.6075,No
+TKT0423,2025-11-04 13:44:00,2025-11-04,13,Tuesday,General technical issue,3,High,Other,Service Desk,Open,2025-11-04 14:28:33,,1.0,24,0.7425,,No
+TKT0424,2025-04-28 04:32:00,2025-04-28,4,Monday,Wi-Fi is not connecting,4,Low,Network,Network Operations,In Progress,2025-04-28 11:05:12,,8.0,72,6.553333333333334,,No
+TKT0425,2025-01-24 12:35:00,2025-01-24,12,Friday,System update failed,3,High,Software,Applications,In Progress,2025-01-24 12:58:24,,1.0,24,0.39,,No
+TKT0426,2025-07-29 10:50:00,2025-07-29,10,Tuesday,Access permission required,3,Low,Account / Access,Service Desk,Closed,2025-07-29 13:59:31,2025-08-03 00:46:32,8.0,72,3.158611111111111,109.94222222222223,Yes
+TKT0428,2025-05-24 01:32:00,2025-05-24,1,Saturday,Multi-factor authentication issue,3,High,Account / Access,Service Desk,Resolved,2025-05-24 03:33:30,2025-05-24 11:13:54,1.0,24,2.025,9.698333333333334,Yes
+TKT0429,2025-05-07 13:17:00,2025-05-07,13,Wednesday,Network drive unavailable,3,Low,Network,Network Operations,Resolved,2025-05-07 15:57:18,2025-05-10 20:32:25,8.0,72,2.671666666666667,79.25694444444444,Yes
+TKT0430,2025-08-29 17:00:00,2025-08-29,17,Friday,VPN connection drops,3,Low,Network,Network Operations,Open,2025-08-29 20:20:34,,8.0,72,3.3427777777777776,,No
+TKT0431,2025-08-08 07:03:00,2025-08-08,7,Friday,Wi-Fi is not connecting,4,Critical,Network,Network Operations,Resolved,2025-08-08 07:14:28,2025-08-08 08:38:28,0.25,8,0.19111111111111112,1.5911111111111111,No
+TKT0432,2025-05-14 21:20:00,2025-05-14,21,Wednesday,System update failed,3,High,Software,Applications,In Progress,2025-05-14 23:34:30,,1.0,24,2.2416666666666667,,Yes
+TKT0433,2025-06-05 08:37:00,2025-06-05,8,Thursday,Unable to install software,4,Medium,Software,Applications,Resolved,2025-06-05 10:12:32,2025-06-06 06:52:03,4.0,48,1.5922222222222222,22.250833333333333,No
+TKT0434,2025-01-07 09:51:00,2025-01-07,9,Tuesday,Wi-Fi is not connecting,4,Critical,Network,Network Operations,In Progress,2025-01-07 10:14:45,,0.25,8,0.3958333333333333,,Yes
+TKT0435,2025-10-08 23:40:00,2025-10-08,23,Wednesday,Application login error,3,High,Software,Service Desk,Open,2025-10-09 00:46:02,,1.0,24,1.1005555555555555,,Yes
+TKT0436,2025-08-04 20:33:00,2025-08-04,20,Monday,VPN connection drops,3,Medium,Network,Network Operations,Open,,,4.0,48,2.26,,No
+TKT0437,2025-02-17 16:12:00,2025-02-17,16,Monday,Multi-factor authentication issue,3,Critical,Account / Access,Service Desk,In Progress,2025-02-17 16:15:14,,0.25,8,0.05388888888888889,,No
+TKT0438,2025-02-22 12:23:00,2025-02-22,12,Saturday,Laptop will not turn on,5,High,Hardware,Network Operations,Resolved,2025-02-22 13:00:58,2025-02-24 03:21:36,1.0,24,0.6327777777777778,38.97666666666667,Yes
+TKT0439,2025-02-21 07:03:00,2025-02-21,7,Friday,Monitor display is flickering,4,Low,Hardware,Endpoint Support,Closed,2025-02-21 10:29:12,2025-02-25 09:55:41,8.0,72,3.4366666666666665,98.87805555555556,Yes
+TKT0440,2025-03-28 03:32:00,2025-03-28,3,Friday,Office application crashes,3,Medium,Software,Applications,Open,2025-03-28 06:05:57,,4.0,48,2.5658333333333334,,No
+TKT0441,2025-07-31 01:15:00,2025-07-31,1,Thursday,Keyboard keys are stuck,4,High,Hardware,Service Desk,Open,2025-07-31 06:09:26,,1.0,24,4.907222222222222,,Yes
+TKT0442,2025-01-23 10:36:00,2025-01-23,10,Thursday,System update failed,3,High,Software,Applications,In Progress,2025-01-23 11:02:21,,1.0,24,0.43916666666666665,,No
+TKT0443,2025-04-15 21:54:00,2025-04-15,21,Tuesday,Password reset request,3,High,Account / Access,Service Desk,Resolved,2025-04-15 23:01:17,2025-04-18 09:20:41,1.0,24,1.121388888888889,59.444722222222225,Yes
+TKT0444,2025-01-04 15:54:00,2025-01-04,15,Saturday,Network drive unavailable,3,Medium,Network,Network Operations,Open,2025-01-04 20:02:53,,4.0,48,4.148055555555556,,Yes
+TKT0445,2025-06-04 04:22:00,2025-06-04,4,Wednesday,Account locked out,3,Low,Account / Access,Service Desk,In Progress,2025-06-04 12:42:27,,8.0,72,8.340833333333334,,Yes
+TKT0446,2025-03-25 11:10:00,2025-03-25,11,Tuesday,Internet connection is slow,4,Low,Network,Network Operations,Open,2025-03-25 21:11:28,,8.0,72,10.024444444444445,,Yes
+TKT0447,2025-07-02 13:05:00,2025-07-02,13,Wednesday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,Resolved,2025-07-02 21:32:47,2025-07-05 12:36:53,4.0,48,8.463055555555556,71.53138888888888,Yes
+TKT0448,2025-02-20 19:59:00,2025-02-20,19,Thursday,Network drive unavailable,3,Low,Network,Network Operations,Closed,2025-02-21 11:41:40,2025-02-23 20:35:51,8.0,72,15.71111111111111,72.61416666666666,Yes
+TKT0449,2025-09-23 09:59:00,2025-09-23,9,Tuesday,Office application crashes,3,Medium,Software,Applications,In Progress,2025-09-23 12:15:28,,4.0,48,2.2744444444444443,,No
+TKT0450,2025-11-14 13:49:00,2025-11-14,13,Friday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Resolved,2025-11-14 20:38:33,2025-11-15 05:56:35,4.0,48,6.825833333333334,16.12638888888889,Yes
+TKT0451,2025-03-21 05:59:00,2025-03-21,5,Friday,Unable to install software,4,Medium,Software,Applications,Resolved,2025-03-21 09:28:30,2025-03-22 04:08:25,4.0,48,3.4916666666666667,22.156944444444445,No
+TKT0452,2025-02-25 16:16:00,2025-02-25,16,Tuesday,Monitor display is flickering,4,High,Hardware,Endpoint Support,Open,2025-02-25 16:55:54,,1.0,24,0.665,,No
+TKT0453,2025-07-09 18:36:00,2025-07-09,18,Wednesday,Printer is not working,4,High,Hardware,Endpoint Support,Closed,2025-07-09 19:21:26,2025-07-10 10:00:26,1.0,24,0.7572222222222222,15.407222222222222,No
+TKT0454,2025-07-31 21:34:00,2025-07-31,21,Thursday,Unable to install software,4,Medium,Software,Applications,Open,2025-08-01 04:46:22,,4.0,48,7.206111111111111,,Yes
+TKT0455,2025-05-01 18:19:00,2025-05-01,18,Thursday,Multi-factor authentication issue,3,High,Account / Access,Service Desk,In Progress,2025-05-01 19:24:21,,1.0,24,1.0891666666666666,,Yes
+TKT0456,2025-06-18 18:07:00,2025-06-18,18,Wednesday,Monitor display is flickering,4,Critical,Hardware,Endpoint Support,Resolved,2025-06-18 18:31:15,2025-06-19 04:35:03,0.25,8,0.4041666666666667,10.4675,Yes
+TKT0457,2025-08-24 23:33:00,2025-08-24,23,Sunday,Application login error,3,Medium,Software,Applications,Resolved,2025-08-25 09:22:23,2025-08-29 00:41:59,4.0,48,9.823055555555555,97.14972222222222,Yes
+TKT0458,2025-10-03 15:05:00,2025-10-03,15,Friday,Network drive unavailable,3,Medium,Network,Network Operations,Open,2025-10-03 17:29:32,,4.0,48,2.408888888888889,,No
+TKT0459,2025-09-14 23:20:00,2025-09-14,23,Sunday,Request for IT assistance,4,Medium,Other,Service Desk,Closed,2025-09-15 03:33:42,2025-09-16 09:33:50,4.0,48,4.2283333333333335,34.230555555555554,Yes
+TKT0460,2025-02-26 03:12:00,2025-02-26,3,Wednesday,Printer is not working,4,Medium,Hardware,Endpoint Support,In Progress,2025-02-26 05:01:08,,4.0,48,1.818888888888889,,No
+TKT0461,2025-06-17 17:35:00,2025-06-17,17,Tuesday,Internet connection is slow,4,Low,Network,Network Operations,Open,2025-06-18 05:51:29,,8.0,72,12.274722222222222,,Yes
+TKT0463,2025-02-10 17:07:00,2025-02-10,17,Monday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,Closed,2025-02-10 23:52:48,2025-02-11 02:36:42,4.0,48,6.763333333333334,9.495,Yes
+TKT0464,2025-06-07 17:14:00,2025-06-07,17,Saturday,Account locked out,3,High,Account / Access,Service Desk,Closed,2025-06-07 17:38:56,2025-06-08 12:58:43,1.0,24,0.41555555555555557,19.745277777777776,No
+TKT0465,2025-05-13 10:39:00,2025-05-13,10,Tuesday,Application login error,3,Low,Software,Applications,In Progress,2025-05-14 04:50:37,,8.0,72,18.19361111111111,,Yes
+TKT0466,2025-10-03 09:43:00,2025-10-03,9,Friday,VPN connection drops,3,Critical,Network,Network Operations,Closed,2025-10-03 09:49:15,2025-10-03 20:08:24,0.25,8,0.10416666666666667,10.423333333333334,Yes
+TKT0467,2025-01-29 10:12:00,2025-01-29,10,Wednesday,Laptop will not turn on,5,Medium,Hardware,Endpoint Support,Open,2025-01-29 11:00:58,,4.0,48,0.8161111111111111,,No
+TKT0468,2025-01-01 20:58:00,2025-01-01,20,Wednesday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,Closed,2025-01-02 00:39:49,2025-01-02 17:23:20,4.0,48,3.6969444444444446,20.42222222222222,No
+TKT0469,2025-06-17 02:33:00,2025-06-17,2,Tuesday,Keyboard keys are stuck,4,Medium,Hardware,Endpoint Support,Closed,2025-06-17 03:41:54,2025-06-19 05:10:27,4.0,48,1.1483333333333334,50.62416666666667,Yes
+TKT0470,2025-03-13 03:43:00,2025-03-13,3,Thursday,Password reset request,3,Medium,Account / Access,Service Desk,In Progress,2025-03-13 06:52:35,,4.0,48,3.1597222222222223,,No
+TKT0471,2025-05-18 15:22:00,2025-05-18,15,Sunday,Multi-factor authentication issue,3,Medium,Account / Access,Service Desk,Open,2025-05-18 23:55:51,,4.0,48,8.564166666666667,,Yes
+TKT0472,2025-09-21 19:07:00,2025-09-21,19,Sunday,Internet connection is slow,4,Medium,Network,Network Operations,Resolved,2025-09-22 01:54:09,2025-09-22 22:44:36,4.0,48,6.785833333333334,27.626666666666665,Yes
+TKT0473,2025-05-29 07:48:00,2025-05-29,7,Thursday,VPN connection drops,3,Medium,Network,Network Operations,Closed,2025-05-29 19:11:27,2025-05-29 21:08:16,4.0,48,11.390833333333333,13.337777777777777,Yes
+TKT0474,2025-08-12 07:09:00,2025-08-12,7,Tuesday,VPN connection drops,3,Medium,Network,Network Operations,Closed,2025-08-12 07:55:02,2025-08-13 00:51:42,4.0,48,0.7672222222222222,17.711666666666666,No
+TKT0475,2025-11-22 04:48:00,2025-11-22,4,Saturday,VPN connection drops,3,High,Network,Network Operations,Open,2025-11-22 05:25:36,,1.0,24,0.6266666666666667,,No
+TKT0476,2025-02-07 21:41:00,2025-02-07,21,Friday,Password reset request,3,Medium,Account / Access,Service Desk,Open,2025-02-07 23:49:37,,4.0,48,2.143611111111111,,No
+TKT0477,2025-03-06 04:22:00,2025-03-06,4,Thursday,System update failed,3,High,Software,Applications,Closed,2025-03-06 05:46:37,2025-03-07 06:41:57,1.0,24,1.4102777777777777,26.3325,Yes
+TKT0478,2025-02-11 20:14:00,2025-02-11,20,Tuesday,Internet connection is slow,4,Medium,Network,Network Operations,Closed,2025-02-11 22:40:04,2025-02-14 17:01:43,4.0,48,2.4344444444444444,68.79527777777778,Yes
+TKT0479,2025-07-28 06:19:00,2025-07-28,6,Monday,Account locked out,3,Low,Account / Access,Endpoint Support,In Progress,2025-07-28 13:09:25,,8.0,72,6.840277777777778,,No
+TKT0480,2025-04-25 15:32:00,2025-04-25,15,Friday,System update failed,3,High,Software,Applications,Closed,2025-04-25 17:01:10,2025-04-26 12:21:03,1.0,24,1.4861111111111112,20.8175,Yes
+TKT0481,2025-02-19 23:10:00,2025-02-19,23,Wednesday,Network drive unavailable,3,Medium,Network,Network Operations,Resolved,2025-02-20 03:30:52,2025-02-23 07:48:34,4.0,48,4.347777777777778,80.64277777777778,Yes
+TKT0482,2025-05-22 15:34:00,2025-05-22,15,Thursday,Application login error,3,Critical,Software,Applications,Open,2025-05-22 15:45:24,,0.25,8,0.19,,No
+TKT0483,2025-08-03 06:25:00,2025-08-03,6,Sunday,Network drive unavailable,3,Low,Network,Network Operations,Resolved,2025-08-03 11:15:23,2025-08-08 08:12:44,8.0,72,4.839722222222222,121.79555555555555,Yes
+TKT0484,2025-06-27 03:30:00,2025-06-27,3,Friday,General technical issue,3,High,Other,Service Desk,Closed,2025-06-27 03:52:42,2025-06-29 12:56:20,1.0,24,0.37833333333333335,57.43888888888889,Yes
+TKT0485,2025-07-07 17:43:00,2025-07-07,17,Monday,Access permission required,3,High,Account / Access,Service Desk,In Progress,2025-07-07 19:42:13,,1.0,24,1.9869444444444444,,Yes
+TKT0486,2025-07-11 18:22:00,2025-07-11,18,Friday,Office application crashes,3,Medium,Software,Applications,Resolved,2025-07-11 21:14:50,2025-07-15 13:11:18,4.0,48,2.8805555555555555,90.82166666666667,Yes
+TKT0487,2025-06-09 03:43:00,2025-06-09,3,Monday,Monitor display is flickering,4,Medium,Hardware,Endpoint Support,In Progress,2025-06-09 08:48:37,,4.0,48,5.0936111111111115,,Yes
+TKT0488,2025-07-13 06:17:00,2025-07-13,6,Sunday,Unable to install software,4,High,Software,Applications,Resolved,2025-07-13 06:44:17,2025-07-14 14:58:27,1.0,24,0.45472222222222225,32.69083333333333,Yes
+TKT0489,2025-12-25 17:56:00,2025-12-25,17,Thursday,Monitor display is flickering,4,High,Hardware,Endpoint Support,Open,2025-12-25 18:23:09,,1.0,24,0.4525,,No
+TKT0490,2025-07-20 01:18:00,2025-07-20,1,Sunday,System update failed,3,Medium,Software,Endpoint Support,Resolved,2025-07-20 02:01:56,2025-07-22 05:56:23,4.0,48,0.7322222222222222,52.639722222222225,Yes
+TKT0491,2025-11-05 03:32:00,2025-11-05,3,Wednesday,Internet connection is slow,4,Low,Network,Network Operations,Resolved,2025-11-05 13:17:01,2025-11-07 16:57:09,8.0,72,9.750277777777777,61.41916666666667,Yes
+TKT0492,2025-03-29 15:35:00,2025-03-29,15,Saturday,Password reset request,3,High,Account / Access,Service Desk,Open,2025-03-29 15:52:59,,1.0,24,0.2997222222222222,,No
+TKT0493,2025-09-21 07:27:00,2025-09-21,7,Sunday,Unable to install software,4,High,Software,Applications,Resolved,2025-09-21 08:05:53,2025-09-21 13:41:29,1.0,24,0.6480555555555556,6.241388888888889,No
+TKT0494,2025-05-14 22:07:00,2025-05-14,22,Wednesday,New equipment request,3,Medium,Other,Service Desk,Resolved,2025-05-15 06:46:20,2025-05-18 18:33:33,4.0,48,8.655555555555555,92.4425,Yes
+TKT0495,2025-04-06 11:49:00,2025-04-06,11,Sunday,Application login error,3,High,Software,Applications,Open,2025-04-06 12:21:40,,1.0,24,0.5444444444444444,,No
+TKT0496,2025-04-17 04:48:00,2025-04-17,4,Thursday,Wi-Fi is not connecting,4,High,Network,Infrastructure,Closed,2025-04-17 05:34:04,2025-04-17 08:01:04,1.0,24,0.7677777777777778,3.2177777777777776,No
+TKT0497,2025-08-18 21:44:00,2025-08-18,21,Monday,System update failed,3,Low,Software,Endpoint Support,Open,2025-08-19 02:00:01,,8.0,72,4.266944444444444,,No
+TKT0498,2025-07-05 04:02:00,2025-07-05,4,Saturday,Keyboard keys are stuck,4,Low,Hardware,Endpoint Support,Closed,2025-07-05 06:22:00,2025-07-06 16:11:16,8.0,72,2.3333333333333335,36.154444444444444,No
+TKT0499,2025-07-07 15:53:00,2025-07-07,15,Monday,Unable to install software,4,Medium,Software,Applications,Resolved,2025-07-08 02:50:12,2025-07-09 16:00:29,4.0,48,10.953333333333333,48.124722222222225,Yes
+TKT0500,2025-07-27 05:53:00,2025-07-27,5,Sunday,Internet connection is slow,4,Medium,Network,Network Operations,Closed,2025-07-27 07:31:46,2025-07-29 03:36:22,4.0,48,1.646111111111111,45.72277777777778,No
