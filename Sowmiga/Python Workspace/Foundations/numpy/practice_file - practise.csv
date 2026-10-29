@@ -1,0 +1,6 @@
+visit_id,patient_name,department,doctor_name,visit_fee,status
+V101,Anitha,Cardiology,Dr. Kumar,500,Completed
+V102,Balaji,Dermatology,Dr. Priya,400,Cancelled
+V103,Chitra,Cardiology,Dr. Kumar,500,Completed
+V104,Dinesh,Orthopedics,Dr. Rajesh,600,No-Show
+V105,Divya,Dermatology,Dr. Priya,400,Completed
