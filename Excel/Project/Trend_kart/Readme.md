@@ -32,7 +32,7 @@ The analysis focuses on answering the following questions:
 
 ## 4. Dataset / Source Details
 
-The project uses the supplied TrendMart Fashion Enterprise dataset in Excel format.
+The project uses the supplied TrendKart Fashion Enterprise dataset in Excel format.
 
 ### Dataset Structure
 
@@ -173,7 +173,6 @@ The dashboard is designed around the management requirement of identifying poten
 - Customer purchase patterns where supported by the data
 
 ---
-
 ![TrendKart Dashboard](Dashboard/TrendKart_Dashboard.png)
 ## 9. Key Business Insights
 
@@ -206,7 +205,7 @@ Based on the findings from the analysis, management can investigate:
 
 ## 11. Project Outcome
 
-The project aims to transform multiple fashion retail datasets into an interactive Excel dashboard that provides a consolidated view of TrendMart's commercial performance.
+The project aims to transform multiple fashion retail datasets into an interactive Excel dashboard that provides a consolidated view of TrendKart's commercial performance.
 
 By analyzing sales, cost, profit, discounts, returns, products, stores, customers, and sales channels, the dashboard supports management in identifying potential profitability leakage and prioritizing areas for further investigation.
 
@@ -222,7 +221,7 @@ By analyzing sales, cost, profit, discounts, returns, products, stores, customer
 
 ---
 
-**Project:** TrendMart Profitability Leakage Analysis  
+**Project:** TrendKart Profitability Leakage Analysis  
 **Industry:** Fashion Retail  
 **Platform:** Microsoft Excel  
 **Project Type:** Business Data Analysis & Dashboard Development
