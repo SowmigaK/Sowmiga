@@ -210,8 +210,7 @@ A donut chart displays total procurement spending by product category.
 - Support procurement cost monitoring.
 
 ---
-![Novitech Manufacturing CEO Dashboard](Dashboard/NoviTech_Dashboard.png)
-
+![Novitech Manufacturing CEO Dashboard](NoviTech_Dashboard/NoviTech_Dashboard.png)
 ## Key Insights
 
 The CEO dashboard supports management in examining the following areas:
