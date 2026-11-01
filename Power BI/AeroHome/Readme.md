@@ -210,7 +210,7 @@ Highlights supplier delivery risk based on the available supplier information.
 - Help management investigate supply-related concerns.
 
 ---
-![AeroHome Manufacturing Dashboard](AeroHome_Dashboard/Dashboard_Image.png)
+![AeroHome Manufacturing Dashboard](AeroHome_Dashboard/AeroHome_Dashboard.png)
 ## Key Insights
 
 ### 1. Production Performance
