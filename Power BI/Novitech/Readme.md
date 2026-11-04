@@ -54,16 +54,14 @@ The dashboard uses production, plant, product and procurement-related informatio
 The CEO dashboard provides a high-level view of selected manufacturing KPIs and operational performance indicators.
 
 It contains **4 KPI cards, 3 interactive slicers and 6 analytical visualizations**.
+![Novitech Manufacturing CEO Dashboard](NoviTech_Dashboard/NoviTech_Dashboard.png)
+
 
 ### Dashboard Components
 
 - **4 KPI Cards**
 - **3 Interactive Slicers**
 - **6 Analytical Visualizations**
-
-![Novitech Manufacturing CEO Dashboard](Dashboard/Novitech_CEO_Dashboard.png)
-
----
 
 ## Tools / Technologies Used
 
@@ -210,7 +208,6 @@ A donut chart displays total procurement spending by product category.
 - Support procurement cost monitoring.
 
 ---
-![Novitech Manufacturing CEO Dashboard](NoviTech_Dashboard/NoviTech_Dashboard.png)
 ## Key Insights
 
 The CEO dashboard supports management in examining the following areas:
