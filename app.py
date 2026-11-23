@@ -92,6 +92,7 @@ def _secret(name):
 
 @st.cache_resource
 def get_llm():
+    st.sidebar.write("Groq key detected:", bool(_secret("GROQ_API_KEY")))
     return build_llm(
         api_key=_secret("GROQ_API_KEY"),
         model=os.getenv("GROQ_MODEL", DEFAULT_MODEL),
