@@ -1,4 +1,0 @@
-streamlit>=1.44
-langchain-core>=0.3
-langchain-groq>=0.2
-pandas>=2.0
