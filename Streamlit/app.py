@@ -73,6 +73,7 @@ div[data-testid="stPopoverBody"] [data-testid="stForm"] button {border-radius:99
 .st-key-chat_clear {padding:0 16px 14px 16px;}
 .st-key-chat_clear button {border-radius:999px; font-size:.8rem;}
 </style>
+
 """
 st.markdown(CSS, unsafe_allow_html=True)
 
