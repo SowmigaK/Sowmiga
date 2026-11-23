@@ -38,13 +38,16 @@ Add your application screenshots below to showcase the interface and functionali
 <!-- Replace these paths with your actual screenshot locations -->
 
 ### Main Application
-![SQL Buddy AI Main Interface](screenshots/main-interface.png)
+<img width="1362" height="635" alt="Home page" src="https://github.com/user-attachments/assets/a497954c-2840-41b4-9111-d5a5fe71c558" />
+
 
 ### SQL Query Generation
-![SQL Query Generation](screenshots/query-generation.png)
+<img width="1350" height="595" alt="Query Generator" src="https://github.com/user-attachments/assets/00f62fd4-c145-48e9-9365-6f047b2846e7" />
+
 
 ### AI Response
-![SQL Buddy AI Response](screenshots/ai-response.png)
+<img width="1342" height="565" alt="AI Response" src="https://github.com/user-attachments/assets/ee9ba432-ea9b-4372-b040-77b80cf61b3c" />
+
 
 ## Installation and Setup
 
