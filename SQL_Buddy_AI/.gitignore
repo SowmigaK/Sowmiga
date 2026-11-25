@@ -12,3 +12,4 @@ app_backup_original.py
 app_damaged_backup.py
 app_recovered.py
 app_recovered2.py
+.venv312/

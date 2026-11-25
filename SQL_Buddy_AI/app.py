@@ -72,6 +72,43 @@ div[data-testid="stPopoverBody"] [data-testid="stForm"] input {border-radius:999
 div[data-testid="stPopoverBody"] [data-testid="stForm"] button {border-radius:999px; background:#1D4ED8; color:#fff; border:none; width:100%;}
 .st-key-chat_clear {padding:0 16px 14px 16px;}
 .st-key-chat_clear button {border-radius:999px; font-size:.8rem;}
+/* Force all primary buttons to dark blue */
+.stApp button[data-testid="stBaseButton-primary"] {
+    background: #172554 !important;
+    background-color: #172554 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #172554 !important;
+}
+
+/* Hover */
+.stApp button[data-testid="stBaseButton-primary"]:hover {
+    background: #1E40AF !important;
+    background-color: #1E40AF !important;
+    color: #FFFFFF !important;
+    border-color: #1E40AF !important;
+}
+/* Active tab underline */
+.stTabs [data-baseweb="tab-highlight"] {
+    background-color: #172554 !important;
+}
+
+/* Active tab text */
+.stTabs button[aria-selected="true"] {
+    color: #172554 !important;
+}
+
+/* Checkbox */
+.stCheckbox [role="checkbox"][aria-checked="true"] {
+    background-color: #172554 !important;
+    border-color: #172554 !important;
+}
+
+/* Text input and text area focus border */
+.stTextInput div[data-baseweb="input"]:focus-within,
+.stTextArea div[data-baseweb="textarea"]:focus-within {
+    border-color: #172554 !important;
+    box-shadow: 0 0 0 1px #172554 !important;
+}
 </style>
 
 """
@@ -96,7 +133,7 @@ def get_llm():
     return build_llm(
         api_key=_secret("GROQ_API_KEY"),
         model=os.getenv("GROQ_MODEL", DEFAULT_MODEL),
-        demo=os.getenv("SQLBUDDY_DEMO") == "1",
+        demo=False,
     )
 
 
