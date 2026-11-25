@@ -4,7 +4,7 @@ An AI-powered SQL assistant that helps users generate SQL queries using natural 
 
 ## Live Application
 
-**Try SQL Buddy AI:** https://sqlbuddy-ai-sowmiga.streamlit.app/
+**Try SQL Buddy AI:** https://sowmiga-vtcvbn3vgg6en9uc3w7ibh.streamlit.app/
 
 ## Project Overview
 
